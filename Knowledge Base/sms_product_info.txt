@@ -1,0 +1,57 @@
+SMS API Provider for Global Messaging | Telnyx
+Telnyx - Global Communications Platform Provider Home View all products Voice AI Voice API eSIM RCS Text-to-speech SIP Trunking SMS API Global Numbers Mobile Voice View all solutions Healthcare Finance Travel and hospitality Logistics and Transportation Insurance Retail and e-commerce Sales & Marketing Services and Dining View all pricing Voice AI Voice API eSIM RCS SIP Trunking SMS API Global Numbers IoT SIM Card Our Network Mission Control Portal Customer stories Global coverage Partners Careers Events Resource center Support center AI Templates SETI Dev Docs Integrations Products Solutions Pricing Why Telnyx Resources Developers Contact us Log in Contact us Log in Sign up Open menu
+SMS API Send and receive SMS or MMS globally with the Telnyx Messaging API, our award-winning platform recognized as a leader for its results and ease of use.
+	•	Channels: 10DLC, Toll-free, Short code, Alphanumeric Sender ID
+ABOUT SMS messaging with confidence Reach users at scale wherever they are in the world with SMS for marketing campaigns and triggered SMS alerts to keep them informed when it counts. Augment existing communications with AI chatbots—automating the most repetitive tasks to reduce operational strain—and engage in text conversations to solve customer problems faster.
+Supported number types for SMS are long code including 10DLC, toll-free, alphanumeric sender ID and short code numbers.
+FEATURES SMS API with automated optimization and reporting Whether it's detailed, transparent delivery reports or automated delivery optimizations, our billion-scale Messaging API is built to take you from small to massive with ease.
+	•	Message queuing: Our automated message queuing is set based on your account limits and the latest industry standards, ensuring maximum throughput without compromising delivery or compliance.
+	•	Reliable delivery reports: Measure deliverability with greater transparency than the competition using our detailed reports and debugging tool.
+	•	Automatic opt-outs: If a customer replies to a message from the Telnyx API with a “stop word” message (e.g. STOP), Telnyx will automatically unsubscribe them from future sends.
+	•	Message concatenation: If a SMS is too long for its destination, our API will automatically separate it into two messages. No more breaking out content into parts—we'll handle that for you.
+	•	Use existing numbers to send SMS: Have an existing, well-known number that you want to send SMS from? With Telnyx Hosted SMS, you can send and receive SMS and MMS without even changing providers.
+	•	Intelligent message encoding: We support any character set and language type. Our system automatically chooses the most compact encoding possible, minimizing cost per send.
+BENEFITS Developer-friendly, scalable SMS API Among SMS API providers, Telnyx consistently wins awards for its results and ease-of-use. We take care of the details as you scale, so you don't have to.
+	•	#1 Ranked API for Results and Ease of Use
+	•	Reduce costs without reducing results: Through our commitment to value through optimization, our platform and team ensure you get a great deal without sacrificing performance.
+	•	30% Typical savings on Messaging Costs
+HOW IT WORKS
+	1	Purchase or port SMS numbers: Purchase or port number(s) with SMS capability. If you have an existing number that you wish to port, try our Hosted SMS solution.
+	2	Complete registration: Set up a Messaging profile and complete any required registrations (such as 10DLC brand and campaign setup). You can do this via the Portal or our API.
+	3	Test sending and receiving: Connect to our all-in-one SMS API service with your credentials. Test sending and receiving to and/or from handsets. Work closely with our award-winning expert support team to resolve any issues.
+	4	Scale from tens to millions: Scale your messaging with one of the world's only billion-scale Messaging APIs. Notifications, marketing and outreach, customer support, sales and much more.
+RESOURCES Start building cURL Python Ruby Node PHP .NET Example cURL code:
+curl -X POST \
+--header "Content-Type: application/json" \
+--header "Authorization: Bearer YOUR_API_KEY" \
+--data '{ "from": "+13115552368", "to": "+13115552367", "text": "Hello, world!" }' \
+https://api.telnyx.com/v2/messages
+	•	Messaging API documentation: Telnyx's Messaging API supports sending and receiving both SMS and MMS.
+	•	15 minute code tutorial: In this tutorial, we show you how to build an SMS appointment reminder service in 15 minutes.
+	•	Overview: Hosted SMS: Learn about sending and receiving SMS via an existing number with Telnyx Hosted SMS.
+PRICING See our SMS API pricing Customers typically save 30% by switching to Telnyx, with lower list pricing and automatic volume discounts.
+	•	Starting at: $0.004 Per message
+SOLUTIONS (SMS API use cases)
+	•	Account notifications: Easily build a customer notifications system by using our SMS API.
+	•	SMS customer service: Send and receive SMS from a specially-selected number or even port an existing one.
+	•	SMS marketing: Build your own SMS Marketing Software with our API and we'll take care of the details.
+	•	Two-factor authentication: Build a custom 2FA experience using secure SMS codes to verify user credentials.
+CUSTOMER STORIES
+	•	Point Blank Political: "We have the ability to offer our services at scale through Telnyx… Telnyx works closely with us, making sure we're always connected and ready to send."
+	•	OneText: How OneText scaled 200X and won more enterprise customers using Telnyx.
+	•	Talentify: How Talentify saved 10h of developer time per week switching to Telnyx Messaging.
+	•	goHappy: How goHappy reduced compliance wait times by 80% after switching to Telnyx.
+eBook: SMS Deliverability Guide Analysis of >1 billion SMS / MMS messages covering: The truth about SMS delivery rates, The quantitative difference between top performers and the rest, How to become a top performer in terms of delivery, Common mistakes and pitfalls to avoid, Error codes, acronyms and other important delivery related jargon and much more.
+FAQ
+	•	What is an SMS API? What is an SMS gateway API? An SMS API (or SMS Gateway API) is a software interface that allows developers to build code that can send and receive SMS messages using an Application Programming Interface (API).
+	•	How do I get started with the Telnyx SMS API? (Question listed)
+	•	How does an SMS API work? (Question listed)
+	•	Is there any free API for SMS? How much does SMS cost using the Telnyx API? (Question listed)
+	•	Does Telnyx provide SDKs? (Question listed)
+	•	Is there support for sending bulk SMS? (Question listed)
+	•	Can I send images or videos via the Telnyx SMS API? (Question listed)
+	•	Can I send texts via short code on the Telnyx SMS API? (Question listed)
+	•	What is an alphanumeric sender ID? (Question listed)
+	•	What use cases does the Telnyx API support? (Question listed)
+	•	How do Carrier Fees work? (Question listed)
+	•	Which number type should I use for sending? (Question listed)

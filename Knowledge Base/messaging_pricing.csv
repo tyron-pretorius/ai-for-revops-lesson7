@@ -1,0 +1,2093 @@
+MCC,MNC,ISO,Country,Description,Price,Currency
+202,7,GR,"Greece","GREECE Outbound SMS - AMD Telecom",0.05400,USD
+202,15,GR,"Greece","GREECE Outbound SMS - BWS",0.05400,USD
+202,1,GR,"Greece","GREECE Outbound SMS - Cosmote",0.05400,USD
+202,14,GR,"Greece","GREECE Outbound SMS - Cyta Hellas",0.05400,USD
+202,16,GR,"Greece","GREECE Outbound SMS - Inter Telecom",0.05400,USD
+202,999,GR,"Greece","GREECE Outbound SMS - Other",0.05400,USD
+202,5,GR,"Greece","GREECE Outbound SMS - Vodafone",0.05400,USD
+202,10,GR,"Greece","GREECE Outbound SMS - Wind",0.05400,USD
+202,9,GR,"Greece","GREECE Outbound SMS - Wind",0.05400,USD
+202,12,GR,"Greece","GREECE Outbound SMS - Yuboto",0.05400,USD
+204,30,NL,"Netherlands","NETHERLANDS Outbound SMS - ASpider",0.08700,USD
+204,61,NL,"Netherlands","NETHERLANDS Outbound SMS - Alcadis",0.08700,USD
+204,25,NL,"Netherlands","NETHERLANDS Outbound SMS - CapX",0.08700,USD
+204,5,NL,"Netherlands","NETHERLANDS Outbound SMS - Elephant Talk",0.08700,USD
+204,17,NL,"Netherlands","NETHERLANDS Outbound SMS - Intercity Zakelijk",0.08700,USD
+204,23,NL,"Netherlands","NETHERLANDS Outbound SMS - KORE Wireless",0.08700,USD
+204,10,NL,"Netherlands","NETHERLANDS Outbound SMS - KPN",0.08700,USD
+204,8,NL,"Netherlands","NETHERLANDS Outbound SMS - KPN",0.08700,USD
+204,27,NL,"Netherlands","NETHERLANDS Outbound SMS - L-mobi",0.08700,USD
+204,28,NL,"Netherlands","NETHERLANDS Outbound SMS - Lancelot",0.08700,USD
+204,9,NL,"Netherlands","NETHERLANDS Outbound SMS - Lycamobile",0.08700,USD
+204,22,NL,"Netherlands","NETHERLANDS Outbound SMS - Ministerie van Defensie",0.08700,USD
+204,999,NL,"Netherlands","NETHERLANDS Outbound SMS - Other",0.08700,USD
+204,24,NL,"Netherlands","NETHERLANDS Outbound SMS - Private Mobility",0.08700,USD
+204,62,NL,"Netherlands","NETHERLANDS Outbound SMS - RGTN",0.08700,USD
+204,68,NL,"Netherlands","NETHERLANDS Outbound SMS - Roamware",0.08700,USD
+204,20,NL,"Netherlands","NETHERLANDS Outbound SMS - T-Mobile",0.08700,USD
+204,16,NL,"Netherlands","NETHERLANDS Outbound SMS - T-Mobile (BEN)",0.08700,USD
+204,2,NL,"Netherlands","NETHERLANDS Outbound SMS - Tele2",0.08700,USD
+204,7,NL,"Netherlands","NETHERLANDS Outbound SMS - Teleena",0.08700,USD
+204,12,NL,"Netherlands","NETHERLANDS Outbound SMS - Telfort",0.08700,USD
+204,33,NL,"Netherlands","NETHERLANDS Outbound SMS - Truphone",0.08700,USD
+204,6,NL,"Netherlands","NETHERLANDS Outbound SMS - Vectone Mobile",0.08700,USD
+204,4,NL,"Netherlands","NETHERLANDS Outbound SMS - Vodafone",0.08700,USD
+204,3,NL,"Netherlands","NETHERLANDS Outbound SMS - Voiceworks",0.08700,USD
+204,15,NL,"Netherlands","NETHERLANDS Outbound SMS - Ziggo",0.08700,USD
+204,18,NL,"Netherlands","NETHERLANDS Outbound SMS - Ziggo",0.08700,USD
+206,20,BE,"Belgium","BELGIUM Outbound SMS - Base",0.09600,USD
+206,12,BE,"Belgium","BELGIUM Outbound SMS - DIGI Belgium",0.09600,USD
+206,22,BE,"Belgium","BELGIUM Outbound SMS - Febo.mobi",0.09600,USD
+206,2,BE,"Belgium","BELGIUM Outbound SMS - Infrabel",0.09600,USD
+206,40,BE,"Belgium","BELGIUM Outbound SMS - JOIN",0.09600,USD
+206,6,BE,"Belgium","BELGIUM Outbound SMS - Lycamobile",0.09600,USD
+206,30,BE,"Belgium","BELGIUM Outbound SMS - Mobile Vikings",0.09600,USD
+206,10,BE,"Belgium","BELGIUM Outbound SMS - Orange Belgium",0.09600,USD
+206,999,BE,"Belgium","BELGIUM Outbound SMS - Other",0.09600,USD
+206,1,BE,"Belgium","BELGIUM Outbound SMS - Proximus",0.09600,USD
+206,5,BE,"Belgium","BELGIUM Outbound SMS - Telenet",0.09600,USD
+206,8,BE,"Belgium","BELGIUM Outbound SMS - VOO",0.09600,USD
+206,7,BE,"Belgium","BELGIUM Outbound SMS - Vectone Mobile",0.09600,USD
+206,9,BE,"Belgium","BELGIUM Outbound SMS - Voxbone",0.09600,USD
+208,28,FR,"France","FRANCE Outbound SMS - Airmob Infra Full",0.07100,USD
+208,20,FR,"France","FRANCE Outbound SMS - Bouygues",0.07100,USD
+208,21,FR,"France","FRANCE Outbound SMS - Bouygues",0.07100,USD
+208,88,FR,"France","FRANCE Outbound SMS - Bouygues",0.07100,USD
+208,34,FR,"France","FRANCE Outbound SMS - Cellhire",0.07100,USD
+208,27,FR,"France","FRANCE Outbound SMS - Coriolis Telecom",0.07100,USD
+208,15,FR,"France","FRANCE Outbound SMS - Free",0.07100,USD
+208,16,FR,"France","FRANCE Outbound SMS - Free",0.07100,USD
+208,5,FR,"France","FRANCE Outbound SMS - Globalstar",0.07100,USD
+208,89,FR,"France","FRANCE Outbound SMS - Hub One",0.07100,USD
+208,37,FR,"France","FRANCE Outbound SMS - IP Directions",0.07100,USD
+208,17,FR,"France","FRANCE Outbound SMS - LEGOS",0.07100,USD
+208,38,FR,"France","FRANCE Outbound SMS - Lebara",0.07100,USD
+208,25,FR,"France","FRANCE Outbound SMS - LycaMobile",0.07100,USD
+208,24,FR,"France","FRANCE Outbound SMS - MobiquiThings",0.07100,USD
+208,3,FR,"France","FRANCE Outbound SMS - MobiquiThings",0.07100,USD
+208,26,FR,"France","FRANCE Outbound SMS - NRJ Mobile",0.07100,USD
+208,1,FR,"France","FRANCE Outbound SMS - Orange",0.07100,USD
+208,2,FR,"France","FRANCE Outbound SMS - Orange",0.07100,USD
+208,91,FR,"France","FRANCE Outbound SMS - Orange",0.07100,USD
+208,999,FR,"France","FRANCE Outbound SMS - Other",0.07100,USD
+208,10,FR,"France","FRANCE Outbound SMS - SFR",0.07100,USD
+208,11,FR,"France","FRANCE Outbound SMS - SFR",0.07100,USD
+208,13,FR,"France","FRANCE Outbound SMS - SFR",0.07100,USD
+208,8,FR,"France","FRANCE Outbound SMS - SFR",0.07100,USD
+208,9,FR,"France","FRANCE Outbound SMS - SFR",0.07100,USD
+208,30,FR,"France","FRANCE Outbound SMS - Syma Mobile",0.07100,USD
+208,93,FR,"France","FRANCE Outbound SMS - TDF",0.07100,USD
+208,22,FR,"France","FRANCE Outbound SMS - Transatel Mobile",0.07100,USD
+208,12,FR,"France","FRANCE Outbound SMS - Truphone",0.07100,USD
+208,31,FR,"France","FRANCE Outbound SMS - Vectone Mobile",0.07100,USD
+212,1,MC,"Monaco","MONACO Outbound SMS - Monaco Telecom",0.17600,USD
+212,10,MC,"Monaco","MONACO Outbound SMS - Office des Telephones",0.17600,USD
+212,999,MC,"Monaco","MONACO Outbound SMS - Other",0.17600,USD
+213,999,AD,"Andorra","ANDORRA Outbound SMS - Other",0.12200,USD
+213,3,AD,"Andorra","ANDORRA Outbound SMS - Som, Mobiland",0.12200,USD
+214,36,ES,"Spain","SPAIN Outbound SMS - ALAI OPERADOR DE TELECOMUNICACIONES, S.L",0.07900,USD
+214,14,ES,"Spain","SPAIN Outbound SMS - AVATEL MOVIL",0.07900,USD
+214,34,ES,"Spain","SPAIN Outbound SMS - Aire Networks del Mediterr�neo, S.L.U.",0.07900,USD
+214,2,ES,"Spain","SPAIN Outbound SMS - Altecom/Fibracat",0.07900,USD
+214,15,ES,"Spain","SPAIN Outbound SMS - BT",0.07900,USD
+214,22,ES,"Spain","SPAIN Outbound SMS - DIGI mobil",0.07900,USD
+214,8,ES,"Spain","SPAIN Outbound SMS - Euskaltel",0.07900,USD
+214,20,ES,"Spain","SPAIN Outbound SMS - Fonyou",0.07900,USD
+214,35,ES,"Spain","SPAIN Outbound SMS - Ingenium",0.07900,USD
+214,21,ES,"Spain","SPAIN Outbound SMS - Jazztel",0.07900,USD
+214,26,ES,"Spain","SPAIN Outbound SMS - Lleida",0.07900,USD
+214,25,ES,"Spain","SPAIN Outbound SMS - Lycamobile",0.07900,USD
+214,5,ES,"Spain","SPAIN Outbound SMS - Movistar",0.07900,USD
+214,7,ES,"Spain","SPAIN Outbound SMS - Movistar",0.07900,USD
+214,17,ES,"Spain","SPAIN Outbound SMS - M�bil R",0.07900,USD
+214,18,ES,"Spain","SPAIN Outbound SMS - ONO",0.07900,USD
+214,11,ES,"Spain","SPAIN Outbound SMS - Orange",0.07900,USD
+214,3,ES,"Spain","SPAIN Outbound SMS - Orange",0.07900,USD
+214,9,ES,"Spain","SPAIN Outbound SMS - Orange",0.07900,USD
+214,999,ES,"Spain","SPAIN Outbound SMS - Other",0.07900,USD
+214,19,ES,"Spain","SPAIN Outbound SMS - Simyo",0.07900,USD
+214,16,ES,"Spain","SPAIN Outbound SMS - TeleCable",0.07900,USD
+214,27,ES,"Spain","SPAIN Outbound SMS - Truphone",0.07900,USD
+214,32,ES,"Spain","SPAIN Outbound SMS - Tuenti",0.07900,USD
+214,1,ES,"Spain","SPAIN Outbound SMS - Vodafone",0.07900,USD
+214,24,ES,"Spain","SPAIN Outbound SMS - Vodafone",0.07900,USD
+214,6,ES,"Spain","SPAIN Outbound SMS - Vodafone",0.07900,USD
+214,23,ES,"Spain","SPAIN Outbound SMS - Xfera Moviles",0.07900,USD
+214,4,ES,"Spain","SPAIN Outbound SMS - Yoigo",0.07900,USD
+214,10,ES,"Spain","SPAIN Outbound SMS - Zinnia",0.07900,USD
+216,3,HU,"Hungary","HUNGARY Outbound SMS - DIGI",0.08400,USD
+216,4,HU,"Hungary","HUNGARY Outbound SMS - Invitech",0.08400,USD
+216,999,HU,"Hungary","HUNGARY Outbound SMS - Other",0.08400,USD
+216,30,HU,"Hungary","HUNGARY Outbound SMS - Telekom",0.08400,USD
+216,1,HU,"Hungary","HUNGARY Outbound SMS - Telenor Hungary",0.08400,USD
+216,70,HU,"Hungary","HUNGARY Outbound SMS - Vodafone",0.08400,USD
+216,71,HU,"Hungary","HUNGARY Outbound SMS - upc",0.08400,USD
+218,90,BA,"Bosnia and Herzegovina","BOSNIA AND HERZEGOVINA Outbound SMS - BH Mobile",0.18900,USD
+218,3,BA,"Bosnia and Herzegovina","BOSNIA AND HERZEGOVINA Outbound SMS - HT-ERONET",0.18900,USD
+218,999,BA,"Bosnia and Herzegovina","BOSNIA AND HERZEGOVINA Outbound SMS - Other",0.18900,USD
+218,5,BA,"Bosnia and Herzegovina","BOSNIA AND HERZEGOVINA Outbound SMS - m:tel",0.18900,USD
+219,10,HR,"Croatia","CROATIA Outbound SMS - A1",0.09200,USD
+219,1,HR,"Croatia","CROATIA Outbound SMS - HT HR",0.09200,USD
+219,999,HR,"Croatia","CROATIA Outbound SMS - Other",0.09200,USD
+219,12,HR,"Croatia","CROATIA Outbound SMS - TELE FOCUS",0.09200,USD
+219,2,HR,"Croatia","CROATIA Outbound SMS - Tele2",0.09200,USD
+220,5,RS,"Serbia","SERBIA Outbound SMS - A1",0.28430,USD
+220,11,RS,"Serbia","SERBIA Outbound SMS - Globaltel",0.28430,USD
+220,999,RS,"Serbia","SERBIA Outbound SMS - Other",0.28430,USD
+220,1,RS,"Serbia","SERBIA Outbound SMS - Telenor",0.28430,USD
+220,3,RS,"Serbia","SERBIA Outbound SMS - mt:s",0.28430,USD
+221,7,XK,"Kosovo","KOSOVO Outbound SMS - D3 Mobile",0.19090,USD
+221,2,XK,"Kosovo","KOSOVO Outbound SMS - IPKO",0.19090,USD
+221,999,XK,"Kosovo","KOSOVO Outbound SMS - Other",0.19090,USD
+221,1,XK,"Kosovo","KOSOVO Outbound SMS - Vala",0.19090,USD
+221,6,XK,"Kosovo","KOSOVO Outbound SMS - Z Mobile",0.19090,USD
+222,34,IT,"Italy","ITALY Outbound SMS - BT Italia",0.08260,USD
+222,53,IT,"Italy","ITALY Outbound SMS - COOP Voce",0.08260,USD
+222,36,IT,"Italy","ITALY Outbound SMS - Digi Mobil",0.08260,USD
+222,42,IT,"Italy","ITALY Outbound SMS - Enel S.p.A",0.08260,USD
+222,8,IT,"Italy","ITALY Outbound SMS - Fastweb",0.08260,USD
+222,50,IT,"Italy","ITALY Outbound SMS - Iliad",0.08260,USD
+222,4,IT,"Italy","ITALY Outbound SMS - Intermatica",0.08260,USD
+222,7,IT,"Italy","ITALY Outbound SMS - Kena Mobile",0.08260,USD
+222,35,IT,"Italy","ITALY Outbound SMS - Lycamobile",0.08260,USD
+222,44,IT,"Italy","ITALY Outbound SMS - Mundio",0.08260,USD
+222,999,IT,"Italy","ITALY Outbound SMS - Other",0.08260,USD
+222,54,IT,"Italy","ITALY Outbound SMS - Plintron",0.08260,USD
+222,33,IT,"Italy","ITALY Outbound SMS - Poste Mobile",0.08260,USD
+222,30,IT,"Italy","ITALY Outbound SMS - RFI",0.08260,USD
+222,56,IT,"Italy","ITALY Outbound SMS - Spusu",0.08260,USD
+222,1,IT,"Italy","ITALY Outbound SMS - TIM",0.08260,USD
+222,43,IT,"Italy","ITALY Outbound SMS - TIM",0.08260,USD
+222,48,IT,"Italy","ITALY Outbound SMS - TIM",0.08260,USD
+222,5,IT,"Italy","ITALY Outbound SMS - Telespazio",0.08260,USD
+222,49,IT,"Italy","ITALY Outbound SMS - Vianova",0.08260,USD
+222,10,IT,"Italy","ITALY Outbound SMS - Vodafone",0.08260,USD
+222,6,IT,"Italy","ITALY Outbound SMS - Vodafone",0.08260,USD
+222,88,IT,"Italy","ITALY Outbound SMS - WINDTRE",0.08260,USD
+222,99,IT,"Italy","ITALY Outbound SMS - WINDTRE",0.08260,USD
+226,2,RO,"Romania","ROMANIA Outbound SMS - Clicknet Mobile",0.06300,USD
+226,4,RO,"Romania","ROMANIA Outbound SMS - Cosmote/Zapp",0.06300,USD
+226,5,RO,"Romania","ROMANIA Outbound SMS - Digi.Mobil",0.06300,USD
+226,16,RO,"Romania","ROMANIA Outbound SMS - Lycamobile",0.06300,USD
+226,10,RO,"Romania","ROMANIA Outbound SMS - Orange",0.06300,USD
+226,999,RO,"Romania","ROMANIA Outbound SMS - Other",0.06300,USD
+226,3,RO,"Romania","ROMANIA Outbound SMS - Telekom",0.06300,USD
+226,6,RO,"Romania","ROMANIA Outbound SMS - Telekom/Zapp",0.06300,USD
+226,1,RO,"Romania","ROMANIA Outbound SMS - Vodafone",0.06300,USD
+228,5,CH,"Switzerland","SWITZERLAND Outbound SMS - Comfone AG",0.06490,USD
+228,54,CH,"Switzerland","SWITZERLAND Outbound SMS - Lycamobile",0.06490,USD
+228,999,CH,"Switzerland","SWITZERLAND Outbound SMS - Other",0.06490,USD
+228,3,CH,"Switzerland","SWITZERLAND Outbound SMS - Salt",0.06490,USD
+228,2,CH,"Switzerland","SWITZERLAND Outbound SMS - Sunrise",0.06490,USD
+228,1,CH,"Switzerland","SWITZERLAND Outbound SMS - Swisscom",0.06490,USD
+228,8,CH,"Switzerland","SWITZERLAND Outbound SMS - Tele4u",0.06490,USD
+228,98,CH,"Switzerland","SWITZERLAND Outbound SMS - Telepage",0.06490,USD
+228,59,CH,"Switzerland","SWITZERLAND Outbound SMS - Vectone",0.06490,USD
+228,58,CH,"Switzerland","SWITZERLAND Outbound SMS - beeone",0.06490,USD
+228,51,CH,"Switzerland","SWITZERLAND Outbound SMS - relario AG",0.06490,USD
+228,71,CH,"Switzerland","SWITZERLAND Outbound SMS - spusu",0.06490,USD
+228,53,CH,"Switzerland","SWITZERLAND Outbound SMS - upc cablecom",0.06490,USD
+230,8,CZ,"Czechia","CZECHIA Outbound SMS - Compatel",0.06300,USD
+230,2,CZ,"Czechia","CZECHIA Outbound SMS - O2",0.06300,USD
+230,999,CZ,"Czechia","CZECHIA Outbound SMS - Other",0.06300,USD
+230,1,CZ,"Czechia","CZECHIA Outbound SMS - T-Mobile",0.06300,USD
+230,4,CZ,"Czechia","CZECHIA Outbound SMS - U:fon",0.06300,USD
+230,9,CZ,"Czechia","CZECHIA Outbound SMS - Unimobile",0.06300,USD
+230,3,CZ,"Czechia","CZECHIA Outbound SMS - Vodafone",0.06300,USD
+231,3,SK,"Slovakia","SLOVAKIA Outbound SMS - 4ka",0.07900,USD
+231,6,SK,"Slovakia","SLOVAKIA Outbound SMS - O2",0.07900,USD
+231,1,SK,"Slovakia","SLOVAKIA Outbound SMS - Orange",0.07900,USD
+231,999,SK,"Slovakia","SLOVAKIA Outbound SMS - Other",0.07900,USD
+231,2,SK,"Slovakia","SLOVAKIA Outbound SMS - Telekom",0.07900,USD
+231,4,SK,"Slovakia","SLOVAKIA Outbound SMS - Telekom",0.07900,USD
+231,99,SK,"Slovakia","SLOVAKIA Outbound SMS - _SR",0.07900,USD
+232,10,AT,"Austria","AUSTRIA Outbound SMS - 3",0.08570,USD
+232,5,AT,"Austria","AUSTRIA Outbound SMS - 3",0.08570,USD
+232,1,AT,"Austria","AUSTRIA Outbound SMS - A1",0.08570,USD
+232,2,AT,"Austria","AUSTRIA Outbound SMS - A1",0.08570,USD
+232,8,AT,"Austria","AUSTRIA Outbound SMS - Lycamobile",0.08570,USD
+232,17,AT,"Austria","AUSTRIA Outbound SMS - MASS Response",0.08570,USD
+232,13,AT,"Austria","AUSTRIA Outbound SMS - Magenta",0.08570,USD
+232,3,AT,"Austria","AUSTRIA Outbound SMS - Magenta",0.08570,USD
+232,7,AT,"Austria","AUSTRIA Outbound SMS - Magenta-T",0.08570,USD
+232,999,AT,"Austria","AUSTRIA Outbound SMS - Other",0.08570,USD
+232,19,AT,"Austria","AUSTRIA Outbound SMS - Tele2",0.08570,USD
+232,9,AT,"Austria","AUSTRIA Outbound SMS - Tele2Mobil",0.08570,USD
+232,15,AT,"Austria","AUSTRIA Outbound SMS - Vectone Mobile",0.08570,USD
+232,11,AT,"Austria","AUSTRIA Outbound SMS - bob",0.08570,USD
+232,20,AT,"Austria","AUSTRIA Outbound SMS - m:tel",0.08570,USD
+232,18,AT,"Austria","AUSTRIA Outbound SMS - smartspace GmbH",0.08570,USD
+232,12,AT,"Austria","AUSTRIA Outbound SMS - yesss!",0.08570,USD
+234,20,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - 3",0.04400,USD
+234,3,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Airtel-Vodafone",0.04400,USD
+234,78,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Airwave",0.04400,USD
+234,0,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - BT",0.04400,USD
+234,76,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - BT",0.04400,USD
+234,8,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - BT OnePhone",0.04400,USD
+234,18,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Cloud 9 Mobile",0.04400,USD
+234,17,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - FleXtel Limited",0.04400,USD
+234,39,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Gamma Telecom Holdings Ltd.",0.04400,USD
+234,24,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Greenfone",0.04400,USD
+234,72,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Hanhaa Mobile",0.04400,USD
+234,71,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Home Office",0.04400,USD
+234,23,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Icron Network Limited",0.04400,USD
+234,50,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - JT",0.04400,USD
+234,53,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Limitless Mobile Ltd",0.04400,USD
+234,14,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Link Mobility UK Ltd",0.04400,USD
+234,26,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Lycamobile",0.04400,USD
+234,28,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Marathon Telecom Limited",0.04400,USD
+234,56,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - National Cyber Security Centre",0.04400,USD
+234,10,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - O2 (UK)",0.04400,USD
+234,11,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - O2 (UK)",0.04400,USD
+234,2,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - O2 (UK)",0.04400,USD
+234,33,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Orange",0.04400,USD
+234,34,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Orange",0.04400,USD
+234,999,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Other",0.04400,USD
+234,19,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Private Mobile Networks PMN",0.04400,USD
+234,58,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Pronto GSM",0.04400,USD
+234,51,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Relish",0.04400,USD
+234,57,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Sky UK Limited",0.04400,USD
+234,40,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Spusu",0.04400,USD
+234,36,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Sure Mobile",0.04400,USD
+234,55,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Sure Mobile",0.04400,USD
+234,37,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Synectiv Ltd",0.04400,USD
+234,30,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - T-Mobile UK",0.04400,USD
+234,31,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - T-Mobile UK",0.04400,USD
+234,32,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - T-Mobile UK",0.04400,USD
+234,16,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Talk Talk",0.04400,USD
+234,27,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Teleena",0.04400,USD
+234,22,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Telesign Mobile Limited",0.04400,USD
+234,9,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Tismi BV",0.04400,USD
+234,25,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Truphone",0.04400,USD
+234,1,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Vectone Mobile",0.04400,USD
+234,38,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Virgin Mobile",0.04400,USD
+234,15,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Vodafone UK",0.04400,USD
+234,29,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - aql",0.04400,USD
+235,999,GB,"United Kingdom","UNITED KINGDOM Outbound SMS - Other",0.04400,USD
+238,6,DK,"Denmark","DENMARK Outbound SMS - 3",0.05000,USD
+238,13,DK,"Denmark","DENMARK Outbound SMS - Compatel",0.05000,USD
+238,23,DK,"Denmark","DENMARK Outbound SMS - GSM-R DK",0.05000,USD
+238,30,DK,"Denmark","DENMARK Outbound SMS - IDM",0.05000,USD
+238,28,DK,"Denmark","DENMARK Outbound SMS - LINK Mobile",0.05000,USD
+238,12,DK,"Denmark","DENMARK Outbound SMS - Lycamobile",0.05000,USD
+238,15,DK,"Denmark","DENMARK Outbound SMS - Net 1",0.05000,USD
+238,999,DK,"Denmark","DENMARK Outbound SMS - Other",0.05000,USD
+238,1,DK,"Denmark","DENMARK Outbound SMS - TDC",0.05000,USD
+238,10,DK,"Denmark","DENMARK Outbound SMS - TDC",0.05000,USD
+238,42,DK,"Denmark","DENMARK Outbound SMS - Tel42",0.05000,USD
+238,2,DK,"Denmark","DENMARK Outbound SMS - Telenor",0.05000,USD
+238,77,DK,"Denmark","DENMARK Outbound SMS - Telenor",0.05000,USD
+238,20,DK,"Denmark","DENMARK Outbound SMS - Telia",0.05000,USD
+238,16,DK,"Denmark","DENMARK Outbound SMS - Tismi",0.05000,USD
+238,7,DK,"Denmark","DENMARK Outbound SMS - Vectone Mobile",0.05000,USD
+238,8,DK,"Denmark","DENMARK Outbound SMS - Voxbone",0.05000,USD
+240,2,SE,"Sweden","SWEDEN Outbound SMS - 3",0.05600,USD
+240,16,SE,"Sweden","SWEDEN Outbound SMS - 42 Telecom AB",0.05600,USD
+240,35,SE,"Sweden","SWEDEN Outbound SMS - 42 Telecom LTD",0.05600,USD
+240,13,SE,"Sweden","SWEDEN Outbound SMS - A3 F�retag AB",0.05600,USD
+240,9,SE,"Sweden","SWEDEN Outbound SMS - Com4",0.05600,USD
+240,11,SE,"Sweden","SWEDEN Outbound SMS - ComHem AB",0.05600,USD
+240,32,SE,"Sweden","SWEDEN Outbound SMS - Compatel Limited",0.05600,USD
+240,22,SE,"Sweden","SWEDEN Outbound SMS - EuTel AB",0.05600,USD
+240,18,SE,"Sweden","SWEDEN Outbound SMS - Generic Mobile Systems Sweden AB",0.05600,USD
+240,27,SE,"Sweden","SWEDEN Outbound SMS - GlobeTouch AB",0.05600,USD
+240,17,SE,"Sweden","SWEDEN Outbound SMS - Gotanet",0.05600,USD
+240,23,SE,"Sweden","SWEDEN Outbound SMS - Infobip Limited (UK)",0.05600,USD
+240,28,SE,"Sweden","SWEDEN Outbound SMS - LINK Mobile A/S",0.05600,USD
+240,12,SE,"Sweden","SWEDEN Outbound SMS - Lycamobile",0.05600,USD
+240,29,SE,"Sweden","SWEDEN Outbound SMS - Mercury International Carrier Services",0.05600,USD
+240,21,SE,"Sweden","SWEDEN Outbound SMS - MobiSir",0.05600,USD
+240,43,SE,"Sweden","SWEDEN Outbound SMS - MobiWeb Ltd.",0.05600,USD
+240,33,SE,"Sweden","SWEDEN Outbound SMS - Mobile Arts AB",0.05600,USD
+240,25,SE,"Sweden","SWEDEN Outbound SMS - Monty UK Global Ltd",0.05600,USD
+240,3,SE,"Sweden","SWEDEN Outbound SMS - Net 1",0.05600,USD
+240,40,SE,"Sweden","SWEDEN Outbound SMS - Netmore Group AB",0.05600,USD
+240,30,SE,"Sweden","SWEDEN Outbound SMS - NextGen Mobile",0.05600,USD
+240,999,SE,"Sweden","SWEDEN Outbound SMS - Other",0.05600,USD
+240,39,SE,"Sweden","SWEDEN Outbound SMS - Primlight AB",0.05600,USD
+240,31,SE,"Sweden","SWEDEN Outbound SMS - RebTel Network AB",0.05600,USD
+240,4,SE,"Sweden","SWEDEN Outbound SMS - SWEDEN",0.05600,USD
+240,20,SE,"Sweden","SWEDEN Outbound SMS - Sierra Wireless Messaging AB",0.05600,USD
+240,15,SE,"Sweden","SWEDEN Outbound SMS - Sierra Wireless Sweden AB",0.05600,USD
+240,37,SE,"Sweden","SWEDEN Outbound SMS - Sinch Sweden AB",0.05600,USD
+240,45,SE,"Sweden","SWEDEN Outbound SMS - Spirius AB",0.05600,USD
+240,10,SE,"Sweden","SWEDEN Outbound SMS - Spring Mobil",0.05600,USD
+240,24,SE,"Sweden","SWEDEN Outbound SMS - Sweden 2G",0.05600,USD
+240,5,SE,"Sweden","SWEDEN Outbound SMS - Sweden 3G",0.05600,USD
+240,7,SE,"Sweden","SWEDEN Outbound SMS - Tele2",0.05600,USD
+240,14,SE,"Sweden","SWEDEN Outbound SMS - Tele2 Sverige AB",0.05600,USD
+240,44,SE,"Sweden","SWEDEN Outbound SMS - Telenabler AB",0.05600,USD
+240,6,SE,"Sweden","SWEDEN Outbound SMS - Telenor",0.05600,USD
+240,8,SE,"Sweden","SWEDEN Outbound SMS - Telenor",0.05600,USD
+240,42,SE,"Sweden","SWEDEN Outbound SMS - Telenor Connexion AB",0.05600,USD
+240,1,SE,"Sweden","SWEDEN Outbound SMS - Telia",0.05600,USD
+240,48,SE,"Sweden","SWEDEN Outbound SMS - Tismi",0.05600,USD
+240,34,SE,"Sweden","SWEDEN Outbound SMS - Trafikverket centralfunktion IT",0.05600,USD
+240,26,SE,"Sweden","SWEDEN Outbound SMS - Twilio Sweden AB",0.05600,USD
+240,19,SE,"Sweden","SWEDEN Outbound SMS - Vectone Mobile",0.05600,USD
+240,46,SE,"Sweden","SWEDEN Outbound SMS - Viahub",0.05600,USD
+240,38,SE,"Sweden","SWEDEN Outbound SMS - Voxbone",0.05600,USD
+240,50,SE,"Sweden","SWEDEN Outbound SMS - eRate Sverige AB",0.05600,USD
+240,36,SE,"Sweden","SWEDEN Outbound SMS - interactive digital media GmbH",0.05600,USD
+242,9,NO,"Norway","NORWAY Outbound SMS - Com4",0.06000,USD
+242,23,NO,"Norway","NORWAY Outbound SMS - Lycamobile",0.06000,USD
+242,999,NO,"Norway","NORWAY Outbound SMS - Other",0.06000,USD
+242,7,NO,"Norway","NORWAY Outbound SMS - Phonero",0.06000,USD
+242,1,NO,"Norway","NORWAY Outbound SMS - Telenor",0.06000,USD
+242,12,NO,"Norway","NORWAY Outbound SMS - Telenor",0.06000,USD
+242,2,NO,"Norway","NORWAY Outbound SMS - Telia",0.06000,USD
+242,5,NO,"Norway","NORWAY Outbound SMS - Telia",0.06000,USD
+242,8,NO,"Norway","NORWAY Outbound SMS - Telia",0.06000,USD
+242,15,NO,"Norway","NORWAY Outbound SMS - eRate",0.06000,USD
+242,14,NO,"Norway","NORWAY Outbound SMS - ice",0.06000,USD
+242,6,NO,"Norway","NORWAY Outbound SMS - ice",0.06000,USD
+244,26,FI,"Finland","FINLAND Outbound SMS - Compatel",0.06200,USD
+244,12,FI,"Finland","FINLAND Outbound SMS - DNA",0.06200,USD
+244,3,FI,"Finland","FINLAND Outbound SMS - DNA",0.06200,USD
+244,5,FI,"Finland","FINLAND Outbound SMS - Elisa",0.06200,USD
+244,21,FI,"Finland","FINLAND Outbound SMS - Elisa- Saunalahti",0.06200,USD
+244,7,FI,"Finland","FINLAND Outbound SMS - Nokia",0.06200,USD
+244,9,FI,"Finland","FINLAND Outbound SMS - Nokia",0.06200,USD
+244,999,FI,"Finland","FINLAND Outbound SMS - Other",0.06200,USD
+244,42,FI,"Finland","FINLAND Outbound SMS - SMS Provider Corp.",0.06200,USD
+244,43,FI,"Finland","FINLAND Outbound SMS - Telavox",0.06200,USD
+244,91,FI,"Finland","FINLAND Outbound SMS - Telia",0.06200,USD
+244,36,FI,"Finland","FINLAND Outbound SMS - Telia / DNA",0.06200,USD
+244,37,FI,"Finland","FINLAND Outbound SMS - Tismi",0.06200,USD
+244,11,FI,"Finland","FINLAND Outbound SMS - Traficom",0.06200,USD
+244,32,FI,"Finland","FINLAND Outbound SMS - Voxbone",0.06200,USD
+244,14,FI,"Finland","FINLAND Outbound SMS - �lcom",0.06200,USD
+246,2,LT,"Lithuania","LITHUANIA Outbound SMS - BIT_",0.05130,USD
+246,6,LT,"Lithuania","LITHUANIA Outbound SMS - Mediafon",0.05130,USD
+246,999,LT,"Lithuania","LITHUANIA Outbound SMS - Other",0.05130,USD
+246,3,LT,"Lithuania","LITHUANIA Outbound SMS - Tele2",0.05130,USD
+246,1,LT,"Lithuania","LITHUANIA Outbound SMS - Telia",0.05130,USD
+247,5,LV,"Latvia","LATVIA Outbound SMS - Bite",0.05900,USD
+247,1,LV,"Latvia","LATVIA Outbound SMS - LMT",0.05900,USD
+247,7,LV,"Latvia","LATVIA Outbound SMS - Megatel",0.05900,USD
+247,999,LV,"Latvia","LATVIA Outbound SMS - Other",0.05900,USD
+247,3,LV,"Latvia","LATVIA Outbound SMS - TRIATEL",0.05900,USD
+247,2,LV,"Latvia","LATVIA Outbound SMS - Tele2",0.05900,USD
+247,8,LV,"Latvia","LATVIA Outbound SMS - VMT",0.05900,USD
+247,9,LV,"Latvia","LATVIA Outbound SMS - Xomobile",0.05900,USD
+248,2,EE,"Estonia","ESTONIA Outbound SMS - Elisa",0.08360,USD
+248,999,EE,"Estonia","ESTONIA Outbound SMS - Other",0.08360,USD
+248,3,EE,"Estonia","ESTONIA Outbound SMS - Tele2",0.08360,USD
+248,1,EE,"Estonia","ESTONIA Outbound SMS - Telia",0.08360,USD
+250,12,RU,"Russia","RUSSIA Outbound SMS - Baykalwestcom",0.63900,USD
+250,28,RU,"Russia","RUSSIA Outbound SMS - Beeline",0.63900,USD
+250,99,RU,"Russia","RUSSIA Outbound SMS - Beeline",0.63900,USD
+250,10,RU,"Russia","RUSSIA Outbound SMS - DTC",0.63900,USD
+250,5,RU,"Russia","RUSSIA Outbound SMS - ETK",0.63900,USD
+250,41,RU,"Russia","RUSSIA Outbound SMS - Gazprom Telecom",0.63900,USD
+250,48,RU,"Russia","RUSSIA Outbound SMS - Global Telecom",0.63900,USD
+250,21,RU,"Russia","RUSSIA Outbound SMS - GlobalTel",0.63900,USD
+250,49,RU,"Russia","RUSSIA Outbound SMS - Internod",0.63900,USD
+250,13,RU,"Russia","RUSSIA Outbound SMS - KUGSM",0.63900,USD
+250,34,RU,"Russia","RUSSIA Outbound SMS - Krymtelekom",0.63900,USD
+250,27,RU,"Russia","RUSSIA Outbound SMS - Letai",0.63900,USD
+250,35,RU,"Russia","RUSSIA Outbound SMS - MOTIV",0.63900,USD
+250,1,RU,"Russia","RUSSIA Outbound SMS - MTS",0.63900,USD
+250,42,RU,"Russia","RUSSIA Outbound SMS - MTT",0.63900,USD
+250,2,RU,"Russia","RUSSIA Outbound SMS - MegaFon",0.63900,USD
+250,16,RU,"Russia","RUSSIA Outbound SMS - Miatel",0.63900,USD
+250,3,RU,"Russia","RUSSIA Outbound SMS - NCC",0.63900,USD
+250,999,RU,"Russia","RUSSIA Outbound SMS - Other",0.63900,USD
+250,39,RU,"Russia","RUSSIA Outbound SMS - Rostelecom",0.63900,USD
+250,7,RU,"Russia","RUSSIA Outbound SMS - SMARTS",0.63900,USD
+250,50,RU,"Russia","RUSSIA Outbound SMS - SberMobile",0.63900,USD
+250,33,RU,"Russia","RUSSIA Outbound SMS - Sevmobile",0.63900,USD
+250,47,RU,"Russia","RUSSIA Outbound SMS - Sim Telecom",0.63900,USD
+250,6,RU,"Russia","RUSSIA Outbound SMS - Skylink",0.63900,USD
+250,9,RU,"Russia","RUSSIA Outbound SMS - Skylink",0.63900,USD
+250,43,RU,"Russia","RUSSIA Outbound SMS - Sprint",0.63900,USD
+250,44,RU,"Russia","RUSSIA Outbound SMS - Stuvtelesot",0.63900,USD
+250,54,RU,"Russia","RUSSIA Outbound SMS - TTK",0.63900,USD
+250,20,RU,"Russia","RUSSIA Outbound SMS - Tele2",0.63900,USD
+250,62,RU,"Russia","RUSSIA Outbound SMS - Tinkoff Mobile",0.63900,USD
+250,17,RU,"Russia","RUSSIA Outbound SMS - Utel",0.63900,USD
+250,26,RU,"Russia","RUSSIA Outbound SMS - VTB Mobile",0.63900,USD
+250,8,RU,"Russia","RUSSIA Outbound SMS - Vainah Telecom",0.63900,USD
+250,22,RU,"Russia","RUSSIA Outbound SMS - Vainakh Telecom",0.63900,USD
+250,60,RU,"Russia","RUSSIA Outbound SMS - Volna mobile",0.63900,USD
+250,32,RU,"Russia","RUSSIA Outbound SMS - Win Mobile",0.63900,USD
+250,11,RU,"Russia","RUSSIA Outbound SMS - Yota",0.63900,USD
+255,7,UA,"Ukraine","UKRAINE Outbound SMS - 3Mob; Lycamobile",0.14700,USD
+255,4,UA,"Ukraine","UKRAINE Outbound SMS - Intertelecom",0.14700,USD
+255,2,UA,"Ukraine","UKRAINE Outbound SMS - Kyivstar",0.14700,USD
+255,3,UA,"Ukraine","UKRAINE Outbound SMS - Kyivstar",0.14700,USD
+255,5,UA,"Ukraine","UKRAINE Outbound SMS - Kyivstar",0.14700,USD
+255,999,UA,"Ukraine","UKRAINE Outbound SMS - Other",0.14700,USD
+255,21,UA,"Ukraine","UKRAINE Outbound SMS - PEOPLEnet",0.14700,USD
+255,99,UA,"Ukraine","UKRAINE Outbound SMS - Phoenix",0.14700,USD
+255,1,UA,"Ukraine","UKRAINE Outbound SMS - Vodafone",0.14700,USD
+255,6,UA,"Ukraine","UKRAINE Outbound SMS - lifecell",0.14700,USD
+257,1,BY,"Belarus","BELARUS Outbound SMS - A1",0.23900,USD
+257,2,BY,"Belarus","BELARUS Outbound SMS - MTS",0.23900,USD
+257,999,BY,"Belarus","BELARUS Outbound SMS - Other",0.23900,USD
+257,4,BY,"Belarus","BELARUS Outbound SMS - life:)",0.23900,USD
+259,2,MD,"Moldova","MOLDOVA Outbound SMS - Moldcell",0.08800,USD
+259,3,MD,"Moldova","MOLDOVA Outbound SMS - Moldtelecom",0.08800,USD
+259,5,MD,"Moldova","MOLDOVA Outbound SMS - Moldtelecom",0.08800,USD
+259,1,MD,"Moldova","MOLDOVA Outbound SMS - Orange",0.08800,USD
+259,999,MD,"Moldova","MOLDOVA Outbound SMS - Other",0.08800,USD
+260,18,PL,"Poland","POLAND Outbound SMS - AMD Telecom",0.03700,USD
+260,48,PL,"Poland","POLAND Outbound SMS - Agile Telecom",0.03700,USD
+260,32,PL,"Poland","POLAND Outbound SMS - Compatel",0.03700,USD
+260,12,PL,"Poland","POLAND Outbound SMS - Cyfrowy Polsat",0.03700,USD
+260,8,PL,"Poland","POLAND Outbound SMS - E-Telko",0.03700,USD
+260,41,PL,"Poland","POLAND Outbound SMS - EZ Phone Mobile",0.03700,USD
+260,40,PL,"Poland","POLAND Outbound SMS - Interactive Digital Media",0.03700,USD
+260,9,PL,"Poland","POLAND Outbound SMS - Lycamobile",0.03700,USD
+260,42,PL,"Poland","POLAND Outbound SMS - Mobiweb Telecom",0.03700,USD
+260,13,PL,"Poland","POLAND Outbound SMS - Move Telecom",0.03700,USD
+260,7,PL,"Poland","POLAND Outbound SMS - Netia",0.03700,USD
+260,3,PL,"Poland","POLAND Outbound SMS - Orange",0.03700,USD
+260,999,PL,"Poland","POLAND Outbound SMS - Other",0.03700,USD
+260,35,PL,"Poland","POLAND Outbound SMS - PKP",0.03700,USD
+260,6,PL,"Poland","POLAND Outbound SMS - Play",0.03700,USD
+260,1,PL,"Poland","POLAND Outbound SMS - Plus",0.03700,USD
+260,11,PL,"Poland","POLAND Outbound SMS - Plus",0.03700,USD
+260,15,PL,"Poland","POLAND Outbound SMS - Plus",0.03700,USD
+260,17,PL,"Poland","POLAND Outbound SMS - Plus",0.03700,USD
+260,26,PL,"Poland","POLAND Outbound SMS - Plus",0.03700,USD
+260,4,PL,"Poland","POLAND Outbound SMS - Plus",0.03700,USD
+260,44,PL,"Poland","POLAND Outbound SMS - Rebtel Poland",0.03700,USD
+260,19,PL,"Poland","POLAND Outbound SMS - SIA NetBalt",0.03700,USD
+260,47,PL,"Poland","POLAND Outbound SMS - SMS Highway",0.03700,USD
+260,10,PL,"Poland","POLAND Outbound SMS - T-Mobile",0.03700,USD
+260,2,PL,"Poland","POLAND Outbound SMS - T-Mobile",0.03700,USD
+260,33,PL,"Poland","POLAND Outbound SMS - Truphone",0.03700,USD
+260,45,PL,"Poland","POLAND Outbound SMS - Virgin Mobile",0.03700,USD
+260,39,PL,"Poland","POLAND Outbound SMS - Voxbone",0.03700,USD
+262,14,DE,"Germany","GERMANY Outbound SMS - Lebara",0.08900,USD
+262,23,DE,"Germany","GERMANY Outbound SMS - 1&1",0.08900,USD
+262,42,DE,"Germany","GERMANY Outbound SMS - CCC Event",0.08900,USD
+262,43,DE,"Germany","GERMANY Outbound SMS - Lycamobile",0.08900,USD
+262,25,DE,"Germany","GERMANY Outbound SMS - MTEL Deutschland",0.08900,USD
+262,21,DE,"Germany","GERMANY Outbound SMS - Multiconnect",0.08900,USD
+262,11,DE,"Germany","GERMANY Outbound SMS - O2",0.08900,USD
+262,17,DE,"Germany","GERMANY Outbound SMS - O2",0.08900,USD
+262,3,DE,"Germany","GERMANY Outbound SMS - O2",0.08900,USD
+262,7,DE,"Germany","GERMANY Outbound SMS - O2",0.08900,USD
+262,8,DE,"Germany","GERMANY Outbound SMS - O2",0.08900,USD
+262,999,DE,"Germany","GERMANY Outbound SMS - Other",0.08900,USD
+262,12,DE,"Germany","GERMANY Outbound SMS - Simquadrat",0.08900,USD
+262,22,DE,"Germany","GERMANY Outbound SMS - Sipgate Wirelss",0.08900,USD
+262,24,DE,"Germany","GERMANY Outbound SMS - TelcoVillage",0.08900,USD
+262,1,DE,"Germany","GERMANY Outbound SMS - Telekom",0.08900,USD
+262,6,DE,"Germany","GERMANY Outbound SMS - Telekom",0.08900,USD
+262,16,DE,"Germany","GERMANY Outbound SMS - Telogic",0.08900,USD
+262,2,DE,"Germany","GERMANY Outbound SMS - Vodafone",0.08900,USD
+262,4,DE,"Germany","GERMANY Outbound SMS - Vodafone",0.08900,USD
+262,9,DE,"Germany","GERMANY Outbound SMS - Vodafone",0.08900,USD
+262,33,DE,"Germany","GERMANY Outbound SMS - simquadrat",0.08900,USD
+266,1,GI,"Gibraltar","GIBRALTAR Outbound SMS - GibTel",0.10100,USD
+266,999,GI,"Gibraltar","GIBRALTAR Outbound SMS - Other",0.10100,USD
+266,9,GI,"Gibraltar","GIBRALTAR Outbound SMS - Shine",0.10100,USD
+268,2,PT,"Portugal","PORTUGAL Outbound SMS - DIGI",0.04300,USD
+268,4,PT,"Portugal","PORTUGAL Outbound SMS - LycaMobile",0.04300,USD
+268,6,PT,"Portugal","PORTUGAL Outbound SMS - MEO",0.04300,USD
+268,80,PT,"Portugal","PORTUGAL Outbound SMS - MEO",0.04300,USD
+268,3,PT,"Portugal","PORTUGAL Outbound SMS - NOS",0.04300,USD
+268,999,PT,"Portugal","PORTUGAL Outbound SMS - Other",0.04300,USD
+268,7,PT,"Portugal","PORTUGAL Outbound SMS - Vectone Mobile",0.04300,USD
+268,1,PT,"Portugal","PORTUGAL Outbound SMS - Vodafone",0.04300,USD
+270,81,LU,"Luxembourg","LUXEMBOURG Outbound SMS - E-Lux Mobile",0.07400,USD
+270,2,LU,"Luxembourg","LUXEMBOURG Outbound SMS - MTX Connect",0.07400,USD
+270,99,LU,"Luxembourg","LUXEMBOURG Outbound SMS - Orange",0.07400,USD
+270,999,LU,"Luxembourg","LUXEMBOURG Outbound SMS - Other",0.07400,USD
+270,1,LU,"Luxembourg","LUXEMBOURG Outbound SMS - POST",0.07400,USD
+270,77,LU,"Luxembourg","LUXEMBOURG Outbound SMS - Tango",0.07400,USD
+272,2,IE,"Ireland","IRELAND Outbound SMS - 3",0.06300,USD
+272,5,IE,"Ireland","IRELAND Outbound SMS - 3",0.06300,USD
+272,16,IE,"Ireland","IRELAND Outbound SMS - Carphone Warehouse",0.06300,USD
+272,3,IE,"Ireland","IRELAND Outbound SMS - Eir",0.06300,USD
+272,7,IE,"Ireland","IRELAND Outbound SMS - Eir",0.06300,USD
+272,13,IE,"Ireland","IRELAND Outbound SMS - Lycamobile",0.06300,USD
+272,999,IE,"Ireland","IRELAND Outbound SMS - Other",0.06300,USD
+272,25,IE,"Ireland","IRELAND Outbound SMS - Sky Ireland",0.06300,USD
+272,11,IE,"Ireland","IRELAND Outbound SMS - Tesco Mobile",0.06300,USD
+272,15,IE,"Ireland","IRELAND Outbound SMS - Virgin Mobile",0.06300,USD
+272,1,IE,"Ireland","IRELAND Outbound SMS - Vodafone",0.06300,USD
+274,7,IS,"Iceland","ICELAND Outbound SMS - IceCell",0.06300,USD
+274,11,IS,"Iceland","ICELAND Outbound SMS - Nova",0.06300,USD
+274,8,IS,"Iceland","ICELAND Outbound SMS - On-waves",0.06300,USD
+274,999,IS,"Iceland","ICELAND Outbound SMS - Other",0.06300,USD
+274,1,IS,"Iceland","ICELAND Outbound SMS - S�minn",0.06300,USD
+274,12,IS,"Iceland","ICELAND Outbound SMS - Tal",0.06300,USD
+274,4,IS,"Iceland","ICELAND Outbound SMS - Viking",0.06300,USD
+274,2,IS,"Iceland","ICELAND Outbound SMS - Vodafone",0.06300,USD
+274,3,IS,"Iceland","ICELAND Outbound SMS - Vodafone",0.06300,USD
+276,3,AL,"Albania","ALBANIA Outbound SMS - ALBtelecom",0.10500,USD
+276,1,AL,"Albania","ALBANIA Outbound SMS - ONE",0.10500,USD
+276,999,AL,"Albania","ALBANIA Outbound SMS - Other",0.10500,USD
+276,4,AL,"Albania","ALBANIA Outbound SMS - Plus",0.10500,USD
+276,2,AL,"Albania","ALBANIA Outbound SMS - Vodafone",0.10500,USD
+278,1,MT,"Malta","MALTA Outbound SMS - Epic",0.06370,USD
+278,21,MT,"Malta","MALTA Outbound SMS - GO",0.06370,USD
+278,77,MT,"Malta","MALTA Outbound SMS - Melita",0.06370,USD
+278,999,MT,"Malta","MALTA Outbound SMS - Other",0.06370,USD
+280,1,CY,"Cyprus","CYPRUS Outbound SMS - Cytamobile-Vodafone",0.04500,USD
+280,10,CY,"Cyprus","CYPRUS Outbound SMS - Epic",0.04500,USD
+280,999,CY,"Cyprus","CYPRUS Outbound SMS - Other",0.04500,USD
+280,20,CY,"Cyprus","CYPRUS Outbound SMS - PrimeTel",0.04500,USD
+280,22,CY,"Cyprus","CYPRUS Outbound SMS - lemontel",0.04500,USD
+282,4,GE,"Georgia","GEORGIA Outbound SMS - Beeline",0.13200,USD
+282,1,GE,"Georgia","GEORGIA Outbound SMS - Geocell",0.13200,USD
+282,7,GE,"Georgia","GEORGIA Outbound SMS - GlobalCell",0.13200,USD
+282,2,GE,"Georgia","GEORGIA Outbound SMS - Magti",0.13200,USD
+282,3,GE,"Georgia","GEORGIA Outbound SMS - MagtiFix",0.13200,USD
+282,999,GE,"Georgia","GEORGIA Outbound SMS - Other",0.13200,USD
+282,5,GE,"Georgia","GEORGIA Outbound SMS - S1",0.13200,USD
+283,1,AM,"Armenia","ARMENIA Outbound SMS - Beeline",0.19070,USD
+283,4,AM,"Armenia","ARMENIA Outbound SMS - Karabakh Telecom",0.19070,USD
+283,999,AM,"Armenia","ARMENIA Outbound SMS - Other",0.19070,USD
+283,10,AM,"Armenia","ARMENIA Outbound SMS - Ucom",0.19070,USD
+283,5,AM,"Armenia","ARMENIA Outbound SMS - VivaCell-MTS",0.19070,USD
+284,1,BG,"Bulgaria","BULGARIA Outbound SMS - A1",0.13900,USD
+284,11,BG,"Bulgaria","BULGARIA Outbound SMS - Bulsatcom",0.13900,USD
+284,999,BG,"Bulgaria","BULGARIA Outbound SMS - Other",0.13900,USD
+284,5,BG,"Bulgaria","BULGARIA Outbound SMS - Telenor",0.13900,USD
+284,3,BG,"Bulgaria","BULGARIA Outbound SMS - Vivacom",0.13900,USD
+286,4,TR,"Turkey","TURKEY Outbound SMS - Aycell",0.02660,USD
+286,13,TR,"Turkey","TURKEY Outbound SMS - Netgsm",0.02660,USD
+286,999,TR,"Turkey","TURKEY Outbound SMS - Other",0.02660,USD
+286,1,TR,"Turkey","TURKEY Outbound SMS - Turkcell",0.02660,USD
+286,3,TR,"Turkey","TURKEY Outbound SMS - T�rk Telekom",0.02660,USD
+286,2,TR,"Turkey","TURKEY Outbound SMS - Vodafone",0.02660,USD
+288,1,FO,"Faroe Islands","FAROE ISLANDS Outbound SMS - F�roya Tele",0.06400,USD
+288,2,FO,"Faroe Islands","FAROE ISLANDS Outbound SMS - Hey",0.06400,USD
+288,999,FO,"Faroe Islands","FAROE ISLANDS Outbound SMS - Other",0.06400,USD
+289,88,GE,"Georgia-Abkhazia","GEORGIA-ABKHAZIA Outbound SMS - A-Mobile",0.13200,USD
+289,67,GE,"Georgia-Abkhazia","GEORGIA-ABKHAZIA Outbound SMS - Aquafon",0.13200,USD
+290,999,GL,"Greenland","GREENLAND Outbound SMS - Other",0.03700,USD
+290,1,GL,"Greenland","GREENLAND Outbound SMS - TELE Greenland",0.03700,USD
+292,999,SM,"San Marino","SAN MARINO Outbound SMS - Other",0.10400,USD
+292,1,SM,"San Marino","SAN MARINO Outbound SMS - PRIMA",0.10400,USD
+293,40,SI,"Slovenia","SLOVENIA Outbound SMS - A1",0.18400,USD
+293,20,SI,"Slovenia","SLOVENIA Outbound SMS - Compatel",0.18400,USD
+293,21,SI,"Slovenia","SLOVENIA Outbound SMS - Mobile One",0.18400,USD
+293,41,SI,"Slovenia","SLOVENIA Outbound SMS - Mobitel",0.18400,USD
+293,999,SI,"Slovenia","SLOVENIA Outbound SMS - Other",0.18400,USD
+293,10,SI,"Slovenia","SLOVENIA Outbound SMS - SZ",0.18400,USD
+293,64,SI,"Slovenia","SLOVENIA Outbound SMS - T-2",0.18400,USD
+293,70,SI,"Slovenia","SLOVENIA Outbound SMS - Telemach",0.18400,USD
+294,3,MK,"North Macedonia","NORTH MACEDONIA Outbound SMS - A1",0.06700,USD
+294,4,MK,"North Macedonia","NORTH MACEDONIA Outbound SMS - Lycamobile",0.06700,USD
+294,999,MK,"North Macedonia","NORTH MACEDONIA Outbound SMS - Other",0.06700,USD
+294,1,MK,"North Macedonia","NORTH MACEDONIA Outbound SMS - Telekom.mk",0.06700,USD
+294,2,MK,"North Macedonia","NORTH MACEDONIA Outbound SMS - vip",0.06700,USD
+295,2,LI,"Liechtenstein","LIECHTENSTEIN Outbound SMS - 7acht",0.03200,USD
+295,6,LI,"Liechtenstein","LIECHTENSTEIN Outbound SMS - Cubic Telecom",0.03200,USD
+295,9,LI,"Liechtenstein","LIECHTENSTEIN Outbound SMS - Emnify",0.03200,USD
+295,5,LI,"Liechtenstein","LIECHTENSTEIN Outbound SMS - FL1",0.03200,USD
+295,7,LI,"Liechtenstein","LIECHTENSTEIN Outbound SMS - First Mobile",0.03200,USD
+295,999,LI,"Liechtenstein","LIECHTENSTEIN Outbound SMS - Other",0.03200,USD
+295,10,LI,"Liechtenstein","LIECHTENSTEIN Outbound SMS - Soracom",0.03200,USD
+295,1,LI,"Liechtenstein","LIECHTENSTEIN Outbound SMS - Swisscom",0.03200,USD
+297,999,ME,"Montenegro","MONTENEGRO Outbound SMS - Other",0.13190,USD
+297,1,ME,"Montenegro","MONTENEGRO Outbound SMS - Telenor",0.13190,USD
+297,3,ME,"Montenegro","MONTENEGRO Outbound SMS - m:tel",0.13190,USD
+297,2,ME,"Montenegro","MONTENEGRO Outbound SMS - telekom.me",0.13190,USD
+302,630,CA,"Canada","CANADA Outbound SMS - Aliant Mobility",0.00400,USD
+302,640,CA,"Canada","CANADA Outbound SMS - Bell",0.00400,USD
+302,880,CA,"Canada","CANADA Outbound SMS - Bell / Telus / SaskTel",0.00400,USD
+302,610,CA,"Canada","CANADA Outbound SMS - Bell Mobility",0.00400,USD
+302,270,CA,"Canada","CANADA Outbound SMS - EastLink",0.00400,USD
+302,340,CA,"Canada","CANADA Outbound SMS - Execulink",0.00400,USD
+302,370,CA,"Canada","CANADA Outbound SMS - Fido",0.00400,USD
+302,490,CA,"Canada","CANADA Outbound SMS - Freedom Mobile",0.00400,USD
+302,710,CA,"Canada","CANADA Outbound SMS - Globalstar",0.00400,USD
+302,620,CA,"Canada","CANADA Outbound SMS - ICE Wireless",0.00400,USD
+302,380,CA,"Canada","CANADA Outbound SMS - Keewaytinook Mobile",0.00400,USD
+302,655,CA,"Canada","CANADA Outbound SMS - MTS",0.00400,USD
+302,660,CA,"Canada","CANADA Outbound SMS - MTS",0.00400,USD
+302,360,CA,"Canada","CANADA Outbound SMS - MiKe",0.00400,USD
+302,999,CA,"Canada","CANADA Outbound SMS - Other",0.00400,USD
+302,480,CA,"Canada","CANADA Outbound SMS - Qiniq",0.00400,USD
+302,590,CA,"Canada","CANADA Outbound SMS - Quadro Mobility",0.00400,USD
+302,320,CA,"Canada","CANADA Outbound SMS - Rogers Wireless",0.00400,USD
+302,720,CA,"Canada","CANADA Outbound SMS - Rogers Wireless",0.00400,USD
+302,680,CA,"Canada","CANADA Outbound SMS - SaskTel",0.00400,USD
+302,780,CA,"Canada","CANADA Outbound SMS - SaskTel",0.00400,USD
+302,656,CA,"Canada","CANADA Outbound SMS - TBay",0.00400,USD
+302,653,CA,"Canada","CANADA Outbound SMS - Telus",0.00400,USD
+302,657,CA,"Canada","CANADA Outbound SMS - Telus",0.00400,USD
+302,220,CA,"Canada","CANADA Outbound SMS - Telus Mobility, Koodo Mobile, Public Mobile",0.00400,USD
+302,500,CA,"Canada","CANADA Outbound SMS - Videotron",0.00400,USD
+302,510,CA,"Canada","CANADA Outbound SMS - Videotron",0.00400,USD
+302,940,CA,"Canada","CANADA Outbound SMS - Wightman Mobility",0.00400,USD
+302,130,CA,"Canada","CANADA Outbound SMS - Xplornet",0.00400,USD
+308,1,PM,"Saint Pierre and Miquelon","ST PIERRE AND MIQUELON Outbound SMS - Ameris",0.14300,USD
+308,2,PM,"Saint Pierre and Miquelon","ST PIERRE AND MIQUELON Outbound SMS - GLOBALTEL",0.14300,USD
+310,370,GU,"Guam","GUAM Outbound SMS - Docomo",0.06200,USD
+310,470,GU,"Guam","GUAM Outbound SMS - Docomo",0.06200,USD
+310,140,GU,"Guam","GUAM Outbound SMS - GTA Wireless",0.06200,USD
+310,32,GU,"Guam","GUAM Outbound SMS - IT&E Wireless",0.06200,USD
+310,50,US,"United States","UNITED STATES Outbound SMS - ACS Wireless",0.00400,USD
+310,710,US,"United States","UNITED STATES Outbound SMS - ASTAC Wireless",0.00400,USD
+310,150,US,"United States","UNITED STATES Outbound SMS - AT&T",0.00400,USD
+310,280,US,"United States","UNITED STATES Outbound SMS - AT&T",0.00400,USD
+310,30,US,"United States","UNITED STATES Outbound SMS - AT&T",0.00400,USD
+310,380,US,"United States","UNITED STATES Outbound SMS - AT&T",0.00400,USD
+310,410,US,"United States","UNITED STATES Outbound SMS - AT&T",0.00400,USD
+310,560,US,"United States","UNITED STATES Outbound SMS - AT&T",0.00400,USD
+310,670,US,"United States","UNITED STATES Outbound SMS - AT&T",0.00400,USD
+310,680,US,"United States","UNITED STATES Outbound SMS - AT&T",0.00400,USD
+310,70,US,"United States","UNITED STATES Outbound SMS - AT&T",0.00400,USD
+310,190,US,"United States","UNITED STATES Outbound SMS - Alaska Wireless",0.00400,USD
+310,750,US,"United States","UNITED STATES Outbound SMS - Appalachian Wireless",0.00400,USD
+310,790,US,"United States","UNITED STATES Outbound SMS - BLAZE",0.00400,USD
+310,130,US,"United States","UNITED STATES Outbound SMS - Carolina West Wireless",0.00400,USD
+310,320,US,"United States","UNITED STATES Outbound SMS - Cellularone NE Arizona",0.00400,USD
+310,480,US,"United States","UNITED STATES Outbound SMS - Choice Phone LLC",0.00400,USD
+310,420,US,"United States","UNITED STATES Outbound SMS - Cincinnati Bell",0.00400,USD
+310,60,US,"United States","UNITED STATES Outbound SMS - Consolidated Telcom",0.00400,USD
+310,930,US,"United States","UNITED STATES Outbound SMS - Copper Valley Cellular",0.00400,USD
+310,80,US,"United States","UNITED STATES Outbound SMS - Corr Wireless",0.00400,USD
+310,16,US,"United States","UNITED STATES Outbound SMS - Cricket Wireless",0.00400,USD
+310,700,US,"United States","UNITED STATES Outbound SMS - Cross-Valliant",0.00400,USD
+310,880,US,"United States","UNITED STATES Outbound SMS - DTC Wireless",0.00400,USD
+310,610,US,"United States","UNITED STATES Outbound SMS - Epic Touch Co.",0.00400,USD
+310,35,US,"United States","UNITED STATES Outbound SMS - Etex Telephone",0.00400,USD
+310,311,US,"United States","UNITED STATES Outbound SMS - Farmers Wireless",0.00400,USD
+310,430,US,"United States","UNITED STATES Outbound SMS - GCI",0.00400,USD
+310,970,US,"United States","UNITED STATES Outbound SMS - Globalstar USA",0.00400,USD
+310,110,US,"United States","UNITED STATES Outbound SMS - IT&E Wireless",0.00400,USD
+310,580,US,"United States","UNITED STATES Outbound SMS - Inland Tel Co",0.00400,USD
+310,650,US,"United States","UNITED STATES Outbound SMS - Jasper",0.00400,USD
+310,870,US,"United States","UNITED STATES Outbound SMS - Kaplan Telephone Co",0.00400,USD
+310,690,US,"United States","UNITED STATES Outbound SMS - Limitless Mobile",0.00400,USD
+310,570,US,"United States","UNITED STATES Outbound SMS - MTPCS, LLC",0.00400,USD
+310,900,US,"United States","UNITED STATES Outbound SMS - Mid Rivers Telephone",0.00400,USD
+310,600,US,"United States","UNITED STATES Outbound SMS - New Cell",0.00400,USD
+310,460,US,"United States","UNITED STATES Outbound SMS - NewCore Wireless",0.00400,USD
+310,540,US,"United States","UNITED STATES Outbound SMS - Oklahoma Western Tele Co",0.00400,USD
+310,999,US,"United States","UNITED STATES Outbound SMS - Other",0.00400,USD
+310,760,US,"United States","UNITED STATES Outbound SMS - Panhandle Telecom",0.00400,USD
+310,980,US,"United States","UNITED STATES Outbound SMS - Peoples Wireless Service",0.00400,USD
+310,290,US,"United States","UNITED STATES Outbound SMS - Pinpoint",0.00400,USD
+310,360,US,"United States","UNITED STATES Outbound SMS - Pioneer Cellular",0.00400,USD
+310,100,US,"United States","UNITED STATES Outbound SMS - Plateau Telecommunications",0.00400,USD
+310,940,US,"United States","UNITED STATES Outbound SMS - Poka Lambro",0.00400,USD
+310,500,US,"United States","UNITED STATES Outbound SMS - Public Service Cellular",0.00400,USD
+310,960,US,"United States","UNITED STATES Outbound SMS - STRATA",0.00400,USD
+310,15,US,"United States","UNITED STATES Outbound SMS - Southern Communications Services, Inc.",0.00400,USD
+310,160,US,"United States","UNITED STATES Outbound SMS - T-Mobile",0.00400,USD
+310,170,US,"United States","UNITED STATES Outbound SMS - T-Mobile",0.00400,USD
+310,200,US,"United States","UNITED STATES Outbound SMS - T-Mobile",0.00400,USD
+310,210,US,"United States","UNITED STATES Outbound SMS - T-Mobile",0.00400,USD
+310,220,US,"United States","UNITED STATES Outbound SMS - T-Mobile",0.00400,USD
+310,230,US,"United States","UNITED STATES Outbound SMS - T-Mobile",0.00400,USD
+310,240,US,"United States","UNITED STATES Outbound SMS - T-Mobile",0.00400,USD
+310,250,US,"United States","UNITED STATES Outbound SMS - T-Mobile",0.00400,USD
+310,260,US,"United States","UNITED STATES Outbound SMS - T-Mobile",0.00400,USD
+310,270,US,"United States","UNITED STATES Outbound SMS - T-Mobile",0.00400,USD
+310,310,US,"United States","UNITED STATES Outbound SMS - T-Mobile",0.00400,USD
+310,490,US,"United States","UNITED STATES Outbound SMS - T-Mobile",0.00400,USD
+310,660,US,"United States","UNITED STATES Outbound SMS - T-Mobile",0.00400,USD
+310,800,US,"United States","UNITED STATES Outbound SMS - T-Mobile",0.00400,USD
+310,390,US,"United States","UNITED STATES Outbound SMS - TX-11",0.00400,USD
+310,840,US,"United States","UNITED STATES Outbound SMS - Telecom North America Corp",0.00400,USD
+310,730,US,"United States","UNITED STATES Outbound SMS - US Cellular Corp.",0.00400,USD
+310,860,US,"United States","UNITED STATES Outbound SMS - Uintah Basin Electronic Telecom",0.00400,USD
+310,20,US,"United States","UNITED STATES Outbound SMS - Union Telephone Company",0.00400,USD
+310,10,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+310,12,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+310,13,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+310,4,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+310,590,US,"United States","UNITED STATES Outbound SMS - Verizon Wireless",0.00400,USD
+310,890,US,"United States","UNITED STATES Outbound SMS - Verizon Wireless",0.00400,USD
+310,910,US,"United States","UNITED STATES Outbound SMS - Verizon Wireless",0.00400,USD
+310,740,US,"United States","UNITED STATES Outbound SMS - Viaero",0.00400,USD
+310,450,US,"United States","UNITED STATES Outbound SMS - Viaero Wireless",0.00400,USD
+310,120,US,"United States","UNITED STATES Outbound SMS - Virgin Mobile",0.00400,USD
+310,180,US,"United States","UNITED STATES Outbound SMS - West Central Cellular",0.00400,USD
+310,340,US,"United States","UNITED STATES Outbound SMS - Westlink Communication",0.00400,USD
+310,990,US,"United States","UNITED STATES Outbound SMS - Worldcall Interconnect",0.00400,USD
+310,530,US,"United States","UNITED STATES Outbound SMS - iWireless",0.00400,USD
+310,770,US,"United States","UNITED STATES Outbound SMS - iWireless",0.00400,USD
+310,630,US,"United States","UNITED STATES Outbound SMS - miSpot",0.00400,USD
+311,780,AS,"American Samoa","AMERICAN SAMOA Outbound SMS - ASTCA",0.16900,USD
+311,180,US,"United States","UNITED STATES Outbound SMS - AT&T",0.00400,USD
+311,440,US,"United States","UNITED STATES Outbound SMS - Bluegrass Wireless",0.00400,USD
+311,800,US,"United States","UNITED STATES Outbound SMS - Bluegrass Wireless",0.00400,USD
+311,810,US,"United States","UNITED STATES Outbound SMS - Bluegrass Wireless",0.00400,USD
+311,140,US,"United States","UNITED STATES Outbound SMS - Bravado Wireless",0.00400,USD
+311,330,US,"United States","UNITED STATES Outbound SMS - Bug Tussel Wireless",0.00400,USD
+311,630,US,"United States","UNITED STATES Outbound SMS - C Spire",0.00400,USD
+311,190,US,"United States","UNITED STATES Outbound SMS - Cellular Properties",0.00400,USD
+311,230,US,"United States","UNITED STATES Outbound SMS - Cellular South",0.00400,USD
+311,920,US,"United States","UNITED STATES Outbound SMS - Chariton Valley",0.00400,USD
+311,10,US,"United States","UNITED STATES Outbound SMS - Chariton Valley Tel. Co.",0.00400,USD
+311,20,US,"United States","UNITED STATES Outbound SMS - Chariton Valley Tel. Co.",0.00400,USD
+311,410,US,"United States","UNITED STATES Outbound SMS - Chat Mobility",0.00400,USD
+311,430,US,"United States","UNITED STATES Outbound SMS - Chat Mobility",0.00400,USD
+311,40,US,"United States","UNITED STATES Outbound SMS - Commnet Wireless",0.00400,USD
+311,240,US,"United States","UNITED STATES Outbound SMS - Cordova Wireless",0.00400,USD
+311,930,US,"United States","UNITED STATES Outbound SMS - Cox Communications",0.00400,USD
+311,600,US,"United States","UNITED STATES Outbound SMS - Cox TMI Wireless",0.00400,USD
+311,560,US,"United States","UNITED STATES Outbound SMS - Digital Comm Consulting (OTZ Telecom)",0.00400,USD
+311,750,US,"United States","UNITED STATES Outbound SMS - Flat West Wireless",0.00400,USD
+311,370,US,"United States","UNITED STATES Outbound SMS - GCI Communication",0.00400,USD
+311,900,US,"United States","UNITED STATES Outbound SMS - GigSky",0.00400,USD
+311,910,US,"United States","UNITED STATES Outbound SMS - Google Voice",0.00400,USD
+311,250,US,"United States","UNITED STATES Outbound SMS - IT&E Wireless",0.00400,USD
+311,340,US,"United States","UNITED STATES Outbound SMS - Illinois Valley Cellular",0.00400,USD
+311,30,US,"United States","UNITED STATES Outbound SMS - Indigo Wireless",0.00400,USD
+311,310,US,"United States","UNITED STATES Outbound SMS - Leaco Rural Telephone Cooperative",0.00400,USD
+311,160,US,"United States","UNITED STATES Outbound SMS - Lightsquared L.P.",0.00400,USD
+311,520,US,"United States","UNITED STATES Outbound SMS - Lightsquared L.P.",0.00400,USD
+311,660,US,"United States","UNITED STATES Outbound SMS - MetroPCS",0.00400,USD
+311,500,US,"United States","UNITED STATES Outbound SMS - Mosaic Telecom",0.00400,USD
+311,710,US,"United States","UNITED STATES Outbound SMS - NE Wireless Networks",0.00400,USD
+311,380,US,"United States","UNITED STATES Outbound SMS - New Dimension Wireless",0.00400,USD
+311,100,US,"United States","UNITED STATES Outbound SMS - Nex-Tech Wireless",0.00400,USD
+311,420,US,"United States","UNITED STATES Outbound SMS - Northwest Missouri Cellular",0.00400,USD
+311,999,US,"United States","UNITED STATES Outbound SMS - Other",0.00400,USD
+311,450,US,"United States","UNITED STATES Outbound SMS - Panhandle Telecom",0.00400,USD
+311,170,US,"United States","UNITED STATES Outbound SMS - Petrocom",0.00400,USD
+311,670,US,"United States","UNITED STATES Outbound SMS - Pine Belt Tel Co",0.00400,USD
+311,80,US,"United States","UNITED STATES Outbound SMS - Pine Cellular Phones",0.00400,USD
+311,730,US,"United States","UNITED STATES Outbound SMS - Proximiti Mobility Inc.",0.00400,USD
+311,610,US,"United States","UNITED STATES Outbound SMS - SRT Wireless",0.00400,USD
+311,860,US,"United States","UNITED STATES Outbound SMS - STRATA",0.00400,USD
+311,350,US,"United States","UNITED STATES Outbound SMS - Sagebrush Cellular",0.00400,USD
+311,60,US,"United States","UNITED STATES Outbound SMS - Space Data Corporation",0.00400,USD
+311,490,US,"United States","UNITED STATES Outbound SMS - Sprint",0.00400,USD
+311,870,US,"United States","UNITED STATES Outbound SMS - Sprint",0.00400,USD
+311,880,US,"United States","UNITED STATES Outbound SMS - Sprint",0.00400,USD
+311,640,US,"United States","UNITED STATES Outbound SMS - Standing Rock Telecom",0.00400,USD
+311,740,US,"United States","UNITED STATES Outbound SMS - TelAlaska Cellular",0.00400,USD
+311,210,US,"United States","UNITED STATES Outbound SMS - Telnyx LLC",0.00400,USD
+311,50,US,"United States","UNITED STATES Outbound SMS - Thumb Cellular",0.00400,USD
+311,830,US,"United States","UNITED STATES Outbound SMS - Thumb Cellular",0.00400,USD
+311,220,US,"United States","UNITED STATES Outbound SMS - US Cellular Corp.",0.00400,USD
+311,580,US,"United States","UNITED STATES Outbound SMS - US Cellular Corp.",0.00400,USD
+311,650,US,"United States","UNITED STATES Outbound SMS - United Tel Assn",0.00400,USD
+311,990,US,"United States","UNITED STATES Outbound SMS - VTel Wireless",0.00400,USD
+311,110,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,270,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,271,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,272,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,273,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,274,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,275,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,276,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,277,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,278,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,279,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,280,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,281,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,282,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,283,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,284,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,285,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,286,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,287,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,288,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,289,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,390,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,480,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,481,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,482,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,483,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,484,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,485,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,486,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,487,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,488,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,489,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,70,US,"United States","UNITED STATES Outbound SMS - Verizon",0.00400,USD
+311,0,US,"United States","UNITED STATES Outbound SMS - West Central Wireless",0.00400,USD
+311,530,US,"United States","UNITED STATES Outbound SMS - Wireless Communications Venture",0.00400,USD
+311,470,VI,"Virgin Islands, U.S.","VIRGIN ISLANDS, U.S. Outbound SMS - Viya",0.00400,USD
+312,120,US,"United States","UNITED STATES Outbound SMS - Appalachian Wireless",0.00400,USD
+312,210,US,"United States","UNITED STATES Outbound SMS - Aspenta",0.00400,USD
+312,570,US,"United States","UNITED STATES Outbound SMS - Blue Wireless",0.00400,USD
+312,650,US,"United States","UNITED STATES Outbound SMS - Brightlink",0.00400,USD
+312,220,US,"United States","UNITED STATES Outbound SMS - Chariton Valley",0.00400,USD
+312,160,US,"United States","UNITED STATES Outbound SMS - Chat Mobility",0.00400,USD
+312,140,US,"United States","UNITED STATES Outbound SMS - Cleveland Unlimited",0.00400,USD
+312,30,US,"United States","UNITED STATES Outbound SMS - Crossville Tel Co",0.00400,USD
+312,860,US,"United States","UNITED STATES Outbound SMS - Flat Wireless",0.00400,USD
+312,180,US,"United States","UNITED STATES Outbound SMS - Limitless Mobile LLC",0.00400,USD
+312,400,US,"United States","UNITED STATES Outbound SMS - Mid-Rivers Wireless",0.00400,USD
+312,420,US,"United States","UNITED STATES Outbound SMS - Nex-Tech Wireless",0.00400,USD
+312,850,US,"United States","UNITED STATES Outbound SMS - Onvoy Spectrum, LLC",0.00400,USD
+312,999,US,"United States","UNITED STATES Outbound SMS - Other",0.00400,USD
+312,270,US,"United States","UNITED STATES Outbound SMS - Pioneer Cellular",0.00400,USD
+312,380,US,"United States","UNITED STATES Outbound SMS - Pioneer Cellular",0.00400,USD
+312,40,US,"United States","UNITED STATES Outbound SMS - RINA (Rural Independent Network Association)",0.00400,USD
+312,230,US,"United States","UNITED STATES Outbound SMS - SRT Communications",0.00400,USD
+312,350,US,"United States","UNITED STATES Outbound SMS - Triangle",0.00400,USD
+312,730,US,"United States","UNITED STATES Outbound SMS - Triangle Communication System Inc.",0.00400,USD
+312,900,US,"United States","UNITED STATES Outbound SMS - Tribal Networks",0.00400,USD
+316,999,US,"United States","UNITED STATES Outbound SMS - Other",0.00400,USD
+316,11,US,"United States","UNITED STATES Outbound SMS - Southern Communication Services",0.00400,USD
+330,110,PR,"Puerto Rico","PUERTO RICO Outbound SMS - Claro Puerto Rico",0.03800,USD
+330,120,PR,"Puerto Rico","PUERTO RICO Outbound SMS - Open Mobile",0.03800,USD
+330,999,PR,"Puerto Rico","PUERTO RICO Outbound SMS - Other",0.03800,USD
+334,10,MX,"Mexico","MEXICO Outbound SMS - AT&T",0.10800,USD
+334,90,MX,"Mexico","MEXICO Outbound SMS - AT&T",0.10800,USD
+334,5,MX,"Mexico","MEXICO Outbound SMS - AT&T / Unefon",0.10800,USD
+334,50,MX,"Mexico","MEXICO Outbound SMS - AT&T / Unefon",0.10800,USD
+334,140,MX,"Mexico","MEXICO Outbound SMS - Altan Redes",0.10800,USD
+334,1,MX,"Mexico","MEXICO Outbound SMS - Comunicaciones Digitales Del Norte, S.A. de C.V.",0.10800,USD
+334,110,MX,"Mexico","MEXICO Outbound SMS - Maxcom",0.10800,USD
+334,3,MX,"Mexico","MEXICO Outbound SMS - Movistar",0.10800,USD
+334,30,MX,"Mexico","MEXICO Outbound SMS - Movistar",0.10800,USD
+334,999,MX,"Mexico","MEXICO Outbound SMS - Other",0.10800,USD
+334,2,MX,"Mexico","MEXICO Outbound SMS - Telcel",0.10800,USD
+334,20,MX,"Mexico","MEXICO Outbound SMS - Telcel",0.10800,USD
+334,40,MX,"Mexico","MEXICO Outbound SMS - Unefon",0.10800,USD
+334,70,MX,"Mexico","MEXICO Outbound SMS - Unefon",0.10800,USD
+338,50,JM,"Jamaica","JAMAICA Outbound SMS - Digicel Bermuda",0.24870,USD
+338,110,JM,"Jamaica","JAMAICA Outbound SMS - FLOW",0.24870,USD
+338,180,JM,"Jamaica","JAMAICA Outbound SMS - FLOW",0.24870,USD
+338,999,JM,"Jamaica","JAMAICA Outbound SMS - Other",0.24870,USD
+340,8,GP,"Guadeloupe","GUADELOUPE Outbound SMS - Dauphin",0.16230,USD
+340,3,GP,"Guadeloupe","GUADELOUPE Outbound SMS - FLOW",0.16230,USD
+340,9,GP,"Guadeloupe","GUADELOUPE Outbound SMS - Free Cara�be",0.16230,USD
+340,20,MQ,"Martinique","MARTINIQUE Outbound SMS - Digicel",0.13300,USD
+340,4,MQ,"Martinique","MARTINIQUE Outbound SMS - Free",0.13300,USD
+340,12,MQ,"Martinique","MARTINIQUE Outbound SMS - Martinique Telephone Mobile",0.13300,USD
+340,1,MQ,"Martinique","MARTINIQUE Outbound SMS - Orange",0.13300,USD
+340,999,MQ,"Martinique","MARTINIQUE Outbound SMS - Other",0.13300,USD
+340,2,MQ,"Martinique","MARTINIQUE Outbound SMS - SFR Cara�be",0.13300,USD
+342,750,BB,"Barbados","BARBADOS Outbound SMS - Digicel",0.21250,USD
+342,600,BB,"Barbados","BARBADOS Outbound SMS - FLOW",0.21250,USD
+342,999,BB,"Barbados","BARBADOS Outbound SMS - Other",0.21250,USD
+342,800,BB,"Barbados","BARBADOS Outbound SMS - Ozone",0.21250,USD
+342,820,BB,"Barbados","BARBADOS Outbound SMS - Sunbeach",0.21250,USD
+344,30,AG,"Antigua and Barbuda","ANTIGUA AND BARBUDA Outbound SMS - APUA",0.14570,USD
+344,930,AG,"Antigua and Barbuda","ANTIGUA AND BARBUDA Outbound SMS - Digicel",0.14570,USD
+344,920,AG,"Antigua and Barbuda","ANTIGUA AND BARBUDA Outbound SMS - FLOW",0.14570,USD
+344,999,AG,"Antigua and Barbuda","ANTIGUA AND BARBUDA Outbound SMS - Other",0.14570,USD
+346,50,KY,"Cayman Islands","CAYMAN ISLANDS Outbound SMS - Digicel",0.23500,USD
+346,140,KY,"Cayman Islands","CAYMAN ISLANDS Outbound SMS - FLOW",0.23500,USD
+346,999,KY,"Cayman Islands","CAYMAN ISLANDS Outbound SMS - Other",0.23500,USD
+348,570,VG,"Virgin Islands, British","VIRGIN ISLANDS, BRITISH Outbound SMS - CCT Boatphone",0.20100,USD
+348,770,VG,"Virgin Islands, British","VIRGIN ISLANDS, BRITISH Outbound SMS - Digicel",0.20100,USD
+348,170,VG,"Virgin Islands, British","VIRGIN ISLANDS, BRITISH Outbound SMS - FLOW",0.20100,USD
+348,999,VG,"Virgin Islands, British","VIRGIN ISLANDS, BRITISH Outbound SMS - Other",0.20100,USD
+350,1,BM,"Bermuda","BERMUDA Outbound SMS - Digicel Bermuda",0.22370,USD
+350,2,BM,"Bermuda","BERMUDA Outbound SMS - Mobility",0.22370,USD
+350,0,BM,"Bermuda","BERMUDA Outbound SMS - One",0.22370,USD
+350,999,BM,"Bermuda","BERMUDA Outbound SMS - Other",0.22370,USD
+352,30,GD,"Grenada","GRENADA Outbound SMS - Digicel",0.23400,USD
+352,110,GD,"Grenada","GRENADA Outbound SMS - FLOW",0.23400,USD
+352,999,GD,"Grenada","GRENADA Outbound SMS - Other",0.23400,USD
+354,860,MS,"Montserrat","MONTSERRAT Outbound SMS - FLOW",0.18000,USD
+354,999,MS,"Montserrat","MONTSERRAT Outbound SMS - Other",0.18000,USD
+356,50,KN,"Saint Kitts & Nevis","ST KITTS AND NEVIS Outbound SMS - Digicel",0.20320,USD
+356,110,KN,"Saint Kitts & Nevis","ST KITTS AND NEVIS Outbound SMS - FLOW",0.20320,USD
+356,70,KN,"Saint Kitts & Nevis","ST KITTS AND NEVIS Outbound SMS - FLOW",0.20320,USD
+356,999,KN,"Saint Kitts & Nevis","ST KITTS AND NEVIS Outbound SMS - Other",0.20320,USD
+358,50,LC,"Saint Lucia","ST LUCIA Outbound SMS - Digicel",0.22170,USD
+358,110,LC,"Saint Lucia","ST LUCIA Outbound SMS - FLOW",0.22170,USD
+358,999,LC,"Saint Lucia","ST LUCIA Outbound SMS - Other",0.22170,USD
+360,50,VC,"Saint Vincent and the Grenadines","ST VINCENT GRENADINES Outbound SMS - Digicel",0.24600,USD
+360,70,VC,"Saint Vincent and the Grenadines","ST VINCENT GRENADINES Outbound SMS - Digicel",0.24600,USD
+360,110,VC,"Saint Vincent and the Grenadines","ST VINCENT GRENADINES Outbound SMS - FLOW",0.24600,USD
+360,999,VC,"Saint Vincent and the Grenadines","ST VINCENT GRENADINES Outbound SMS - Other",0.24600,USD
+362,69,AN,"Netherlands Antilles","NETHERLANDS ANTILLES Outbound SMS - Digicel",0.25170,USD
+362,91,AN,"Netherlands Antilles","NETHERLANDS ANTILLES Outbound SMS - FLOW",0.25170,USD
+362,999,AN,"Netherlands Antilles","NETHERLANDS ANTILLES Outbound SMS - Other",0.25170,USD
+362,78,AN,"Netherlands Antilles","NETHERLANDS ANTILLES Outbound SMS - Telbo",0.25170,USD
+362,51,AN,"Netherlands Antilles","NETHERLANDS ANTILLES Outbound SMS - Telcell",0.25170,USD
+363,2,AW,"Aruba","ARUBA Outbound SMS - Digicel",0.14200,USD
+363,999,AW,"Aruba","ARUBA Outbound SMS - Other",0.14200,USD
+363,1,AW,"Aruba","ARUBA Outbound SMS - SETAR",0.14200,USD
+364,49,BS,"Bahamas","BAHAMAS Outbound SMS - Aliv",0.05000,USD
+364,39,BS,"Bahamas","BAHAMAS Outbound SMS - BTC",0.05000,USD
+364,390,BS,"Bahamas","BAHAMAS Outbound SMS - BTC",0.05000,USD
+364,999,BS,"Bahamas","BAHAMAS Outbound SMS - Other",0.05000,USD
+365,10,AI,"Anguilla","ANGUILLA Outbound SMS - Digicel",0.18000,USD
+365,840,AI,"Anguilla","ANGUILLA Outbound SMS - FLOW",0.18000,USD
+365,999,AI,"Anguilla","ANGUILLA Outbound SMS - Other",0.18000,USD
+366,20,DM,"Dominica","DOMINICA Outbound SMS - Digicel",0.19700,USD
+366,110,DM,"Dominica","DOMINICA Outbound SMS - FLOW",0.19700,USD
+366,999,DM,"Dominica","DOMINICA Outbound SMS - Other",0.19700,USD
+368,1,CU,"Cuba","CUBA Outbound SMS - CUBACEL",0.08000,USD
+368,999,CU,"Cuba","CUBA Outbound SMS - Other",0.08000,USD
+370,1,DO,"Dominican Republic","DOMINICAN REPUBLIC Outbound SMS - Altice",0.09230,USD
+370,3,DO,"Dominican Republic","DOMINICAN REPUBLIC Outbound SMS - Altice",0.09230,USD
+370,2,DO,"Dominican Republic","DOMINICAN REPUBLIC Outbound SMS - Claro",0.09230,USD
+370,999,DO,"Dominican Republic","DOMINICAN REPUBLIC Outbound SMS - Other",0.09230,USD
+370,4,DO,"Dominican Republic","DOMINICAN REPUBLIC Outbound SMS - Viva",0.09230,USD
+372,2,HT,"Haiti","HAITI Outbound SMS - Digicel",0.25670,USD
+372,3,HT,"Haiti","HAITI Outbound SMS - Natcom",0.25670,USD
+372,999,HT,"Haiti","HAITI Outbound SMS - Other",0.25670,USD
+372,1,HT,"Haiti","HAITI Outbound SMS - Voila",0.25670,USD
+374,130,TT,"Trinidad and Tobago","TRINIDAD AND TOBAGO Outbound SMS - Digicel",0.23580,USD
+374,140,TT,"Trinidad and Tobago","TRINIDAD AND TOBAGO Outbound SMS - Laqtel",0.23580,USD
+374,999,TT,"Trinidad and Tobago","TRINIDAD AND TOBAGO Outbound SMS - Other",0.23580,USD
+374,12,TT,"Trinidad and Tobago","TRINIDAD AND TOBAGO Outbound SMS - bmobile",0.23580,USD
+376,360,TC,"Turks and Caicos Islands","TURKS AND CAICOS ISLANDS Outbound SMS - Digicel",0.19940,USD
+376,350,TC,"Turks and Caicos Islands","TURKS AND CAICOS ISLANDS Outbound SMS - FLOW",0.19940,USD
+376,352,TC,"Turks and Caicos Islands","TURKS AND CAICOS ISLANDS Outbound SMS - FLOW",0.19940,USD
+376,999,TC,"Turks and Caicos Islands","TURKS AND CAICOS ISLANDS Outbound SMS - Other",0.19940,USD
+400,1,AZ,"Azerbaijan","AZERBAIJAN Outbound SMS - Azercell",0.35900,USD
+400,2,AZ,"Azerbaijan","AZERBAIJAN Outbound SMS - Bakcell",0.35900,USD
+400,3,AZ,"Azerbaijan","AZERBAIJAN Outbound SMS - FONEX",0.35900,USD
+400,4,AZ,"Azerbaijan","AZERBAIJAN Outbound SMS - Nar Mobile",0.35900,USD
+400,6,AZ,"Azerbaijan","AZERBAIJAN Outbound SMS - Naxtel",0.35900,USD
+400,999,AZ,"Azerbaijan","AZERBAIJAN Outbound SMS - Other",0.35900,USD
+401,7,KZ,"Kazakstan","KAZAKHSTAN Outbound SMS - Altel",0.27100,USD
+401,1,KZ,"Kazakstan","KAZAKHSTAN Outbound SMS - Beeline",0.27100,USD
+401,8,KZ,"Kazakstan","KAZAKHSTAN Outbound SMS - Kazakhtelecom",0.27100,USD
+401,2,KZ,"Kazakstan","KAZAKHSTAN Outbound SMS - Kcell",0.27100,USD
+401,999,KZ,"Kazakstan","KAZAKHSTAN Outbound SMS - Other",0.27100,USD
+401,77,KZ,"Kazakstan","KAZAKHSTAN Outbound SMS - Tele2.kz",0.27100,USD
+402,11,BT,"Bhutan","BHUTAN Outbound SMS - B-Mobile",0.33800,USD
+402,999,BT,"Bhutan","BHUTAN Outbound SMS - Other",0.33800,USD
+402,77,BT,"Bhutan","BHUTAN Outbound SMS - TashiCell",0.33800,USD
+404,17,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+404,25,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+404,28,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+404,29,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+404,33,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+404,91,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+404,10,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+404,2,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+404,3,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+404,31,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+404,40,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+404,70,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+404,90,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+404,92,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+404,93,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+404,94,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+404,95,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+404,96,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+404,97,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+404,98,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+404,35,IN,"India","INDIA Outbound SMS - Aircel",0.06800,USD
+404,37,IN,"India","INDIA Outbound SMS - Aircel",0.06800,USD
+404,41,IN,"India","INDIA Outbound SMS - Aircel",0.06800,USD
+404,42,IN,"India","INDIA Outbound SMS - Aircel",0.06800,USD
+404,16,IN,"India","INDIA Outbound SMS - Airtel",0.06800,USD
+404,45,IN,"India","INDIA Outbound SMS - Airtel",0.06800,USD
+404,49,IN,"India","INDIA Outbound SMS - Airtel",0.06800,USD
+404,6,IN,"India","INDIA Outbound SMS - Airtel",0.06800,USD
+404,34,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,38,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,51,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,53,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,54,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,55,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,57,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,58,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,59,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,62,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,64,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,66,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,71,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,72,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,73,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,74,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,75,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,76,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,77,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,79,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,80,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,81,IN,"India","INDIA Outbound SMS - BSNL Mobile",0.06800,USD
+404,48,IN,"India","INDIA Outbound SMS - Dishnet Wireless",0.06800,USD
+404,21,IN,"India","INDIA Outbound SMS - Loop Mobile",0.06800,USD
+404,68,IN,"India","INDIA Outbound SMS - MTNL",0.06800,USD
+404,69,IN,"India","INDIA Outbound SMS - MTNL",0.06800,USD
+404,0,IN,"India","INDIA Outbound SMS - MTS",0.06800,USD
+404,999,IN,"India","INDIA Outbound SMS - Other",0.06800,USD
+404,18,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+404,36,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+404,50,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+404,52,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+404,67,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+404,83,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+404,85,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+404,9,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+404,1,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,11,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,12,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,13,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,14,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,15,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,19,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,20,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,22,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,24,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,27,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,30,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,4,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,43,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,44,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,46,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,5,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,56,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,60,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,7,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,78,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,82,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,84,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,86,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,87,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,88,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+404,89,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,800,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+405,801,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+405,802,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+405,803,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+405,804,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+405,805,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+405,806,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+405,807,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+405,808,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+405,809,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+405,810,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+405,811,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+405,812,IN,"India","INDIA Outbound SMS - AIRCEL",0.06800,USD
+405,51,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+405,52,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+405,53,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+405,54,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+405,56,IN,"India","INDIA Outbound SMS - AirTel",0.06800,USD
+405,55,IN,"India","INDIA Outbound SMS - Airtel",0.06800,USD
+405,913,IN,"India","INDIA Outbound SMS - Etisalat DB (cheers)",0.06800,USD
+405,914,IN,"India","INDIA Outbound SMS - Etisalat DB (cheers)",0.06800,USD
+405,915,IN,"India","INDIA Outbound SMS - Etisalat DB (cheers)",0.06800,USD
+405,916,IN,"India","INDIA Outbound SMS - Etisalat DB (cheers)",0.06800,USD
+405,917,IN,"India","INDIA Outbound SMS - Etisalat DB (cheers)",0.06800,USD
+405,918,IN,"India","INDIA Outbound SMS - Etisalat DB (cheers)",0.06800,USD
+405,919,IN,"India","INDIA Outbound SMS - Etisalat DB (cheers)",0.06800,USD
+405,920,IN,"India","INDIA Outbound SMS - Etisalat DB (cheers)",0.06800,USD
+405,921,IN,"India","INDIA Outbound SMS - Etisalat DB (cheers)",0.06800,USD
+405,922,IN,"India","INDIA Outbound SMS - Etisalat DB (cheers)",0.06800,USD
+405,923,IN,"India","INDIA Outbound SMS - Etisalat DB (cheers)",0.06800,USD
+405,924,IN,"India","INDIA Outbound SMS - Etisalat DB (cheers)",0.06800,USD
+405,931,IN,"India","INDIA Outbound SMS - Etisalat DB (cheers)",0.06800,USD
+405,840,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,854,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,855,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,856,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,857,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,858,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,859,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,860,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,861,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,862,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,863,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,864,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,865,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,866,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,867,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,868,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,869,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,870,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,871,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,872,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,873,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,874,IN,"India","INDIA Outbound SMS - Jio",0.06800,USD
+405,887,IN,"India","INDIA Outbound SMS - MTS",0.06800,USD
+405,895,IN,"India","INDIA Outbound SMS - MTS",0.06800,USD
+405,896,IN,"India","INDIA Outbound SMS - MTS",0.06800,USD
+405,897,IN,"India","INDIA Outbound SMS - MTS",0.06800,USD
+405,899,IN,"India","INDIA Outbound SMS - MTS",0.06800,USD
+405,900,IN,"India","INDIA Outbound SMS - MTS",0.06800,USD
+405,903,IN,"India","INDIA Outbound SMS - MTS",0.06800,USD
+405,904,IN,"India","INDIA Outbound SMS - MTS",0.06800,USD
+405,906,IN,"India","INDIA Outbound SMS - MTS",0.06800,USD
+405,907,IN,"India","INDIA Outbound SMS - MTS",0.06800,USD
+405,999,IN,"India","INDIA Outbound SMS - Other",0.06800,USD
+405,24,IN,"India","INDIA Outbound SMS - Ping Mobile",0.06800,USD
+405,1,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,10,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,11,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,12,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,13,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,14,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,15,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,17,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,18,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,19,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,20,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,21,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,22,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,23,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,3,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,4,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,5,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,6,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,7,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,8,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,9,IN,"India","INDIA Outbound SMS - Reliance",0.06800,USD
+405,881,IN,"India","INDIA Outbound SMS - S Tel",0.06800,USD
+405,25,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,26,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,27,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,28,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,29,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,30,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,31,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,32,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,33,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,34,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,35,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,36,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,37,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,38,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,39,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,41,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,42,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,43,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,44,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,45,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,46,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,47,IN,"India","INDIA Outbound SMS - TATA DOCOMO",0.06800,USD
+405,40,IN,"India","INDIA Outbound SMS - Tata DoCoMo",0.06800,USD
+405,815,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,817,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,818,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,819,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,820,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,821,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,822,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,844,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,875,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,876,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,877,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,879,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,880,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,925,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,926,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,927,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,928,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,929,IN,"India","INDIA Outbound SMS - Uninor",0.06800,USD
+405,66,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,67,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,70,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,750,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,751,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,752,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,753,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,754,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,755,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,756,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,799,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,845,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,846,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,847,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,848,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,849,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,850,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,851,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,852,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,853,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,908,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,909,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,910,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,911,IN,"India","INDIA Outbound SMS - Vi India",0.06800,USD
+405,823,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,825,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,828,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,829,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,830,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,831,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,832,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,833,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,835,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,836,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,837,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,838,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,839,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,841,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,842,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,843,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,932,IN,"India","INDIA Outbound SMS - Videocon",0.06800,USD
+405,824,IN,"India","INDIA Outbound SMS - Videocon Telecom",0.06800,USD
+405,827,IN,"India","INDIA Outbound SMS - Videocon Telecom",0.06800,USD
+405,834,IN,"India","INDIA Outbound SMS - Videocon Telecom",0.06800,USD
+410,1,PK,"Pakistan","PAKISTAN Outbound SMS - Jazz",0.38000,USD
+410,7,PK,"Pakistan","PAKISTAN Outbound SMS - Jazz",0.38000,USD
+410,999,PK,"Pakistan","PAKISTAN Outbound SMS - Other",0.38000,USD
+410,5,PK,"Pakistan","PAKISTAN Outbound SMS - SCO Mobile",0.38000,USD
+410,8,PK,"Pakistan","PAKISTAN Outbound SMS - SCO Mobile",0.38000,USD
+410,6,PK,"Pakistan","PAKISTAN Outbound SMS - Telenor",0.38000,USD
+410,3,PK,"Pakistan","PAKISTAN Outbound SMS - Ufone",0.38000,USD
+410,4,PK,"Pakistan","PAKISTAN Outbound SMS - Zong",0.38000,USD
+412,1,AF,"Afghanistan","AFGHANISTAN Outbound SMS - AWCC",0.33800,USD
+412,50,AF,"Afghanistan","AFGHANISTAN Outbound SMS - Etisalat",0.33800,USD
+412,40,AF,"Afghanistan","AFGHANISTAN Outbound SMS - MTN",0.33800,USD
+412,999,AF,"Afghanistan","AFGHANISTAN Outbound SMS - Other",0.33800,USD
+412,20,AF,"Afghanistan","AFGHANISTAN Outbound SMS - Roshan",0.33800,USD
+412,80,AF,"Afghanistan","AFGHANISTAN Outbound SMS - Salaam",0.33800,USD
+412,88,AF,"Afghanistan","AFGHANISTAN Outbound SMS - Salaam",0.33800,USD
+413,5,LK,"Sri Lanka","SRI LANKA Outbound SMS - Airtel",0.36000,USD
+413,2,LK,"Sri Lanka","SRI LANKA Outbound SMS - Dialog",0.36000,USD
+413,3,LK,"Sri Lanka","SRI LANKA Outbound SMS - Hutch",0.36000,USD
+413,8,LK,"Sri Lanka","SRI LANKA Outbound SMS - Hutch",0.36000,USD
+413,1,LK,"Sri Lanka","SRI LANKA Outbound SMS - Mobitel",0.36000,USD
+413,999,LK,"Sri Lanka","SRI LANKA Outbound SMS - Other",0.36000,USD
+414,1,MM,"Myanmar","MYANMAR Outbound SMS - MPT",0.31900,USD
+414,9,MM,"Myanmar","MYANMAR Outbound SMS - Mytel",0.31900,USD
+414,5,MM,"Myanmar","MYANMAR Outbound SMS - Ooredoo",0.31900,USD
+414,999,MM,"Myanmar","MYANMAR Outbound SMS - Other",0.31900,USD
+414,6,MM,"Myanmar","MYANMAR Outbound SMS - Telenor",0.31900,USD
+415,1,LB,"Lebanon","LEBANON Outbound SMS - Alfa",0.34400,USD
+415,999,LB,"Lebanon","LEBANON Outbound SMS - Other",0.34400,USD
+415,3,LB,"Lebanon","LEBANON Outbound SMS - Touch",0.34400,USD
+416,77,JO,"Jordan","JORDAN Outbound SMS - Orange",0.27840,USD
+416,999,JO,"Jordan","JORDAN Outbound SMS - Other",0.27840,USD
+416,3,JO,"Jordan","JORDAN Outbound SMS - Umniah",0.27840,USD
+416,1,JO,"Jordan","JORDAN Outbound SMS - zain JO",0.27840,USD
+417,2,SY,"Syria","SYRIA Outbound SMS - MTN",0.35200,USD
+417,999,SY,"Syria","SYRIA Outbound SMS - Other",0.35200,USD
+417,1,SY,"Syria","SYRIA Outbound SMS - Syriatel",0.35200,USD
+418,5,IQ,"Iraq","IRAQ Outbound SMS - Asia Cell",0.32300,USD
+418,62,IQ,"Iraq","IRAQ Outbound SMS - Itisaluna",0.32300,USD
+418,40,IQ,"Iraq","IRAQ Outbound SMS - Korek",0.32300,USD
+418,91,IQ,"Iraq","IRAQ Outbound SMS - Korek",0.32300,USD
+418,45,IQ,"Iraq","IRAQ Outbound SMS - Mobitel",0.32300,USD
+418,92,IQ,"Iraq","IRAQ Outbound SMS - Omnnea",0.32300,USD
+418,999,IQ,"Iraq","IRAQ Outbound SMS - Other",0.32300,USD
+418,20,IQ,"Iraq","IRAQ Outbound SMS - Zain",0.32300,USD
+418,30,IQ,"Iraq","IRAQ Outbound SMS - Zain",0.32300,USD
+419,3,KW,"Kuwait","KUWAIT Outbound SMS - Ooredoo",0.24400,USD
+419,999,KW,"Kuwait","KUWAIT Outbound SMS - Other",0.24400,USD
+419,4,KW,"Kuwait","KUWAIT Outbound SMS - STC",0.24400,USD
+419,2,KW,"Kuwait","KUWAIT Outbound SMS - zain KW",0.24400,USD
+420,1,SA,"Saudi Arabia","SAUDI ARABIA Outbound SMS - Al Jawal (STC )",0.15960,USD
+420,50,SA,"Saudi Arabia","SAUDI ARABIA Outbound SMS - Bravo",0.15960,USD
+420,6,SA,"Saudi Arabia","SAUDI ARABIA Outbound SMS - Lebara Mobile",0.15960,USD
+420,3,SA,"Saudi Arabia","SAUDI ARABIA Outbound SMS - Mobily",0.15960,USD
+420,999,SA,"Saudi Arabia","SAUDI ARABIA Outbound SMS - Other",0.15960,USD
+420,5,SA,"Saudi Arabia","SAUDI ARABIA Outbound SMS - Virgin Mobile",0.15960,USD
+420,4,SA,"Saudi Arabia","SAUDI ARABIA Outbound SMS - Zain SA",0.15960,USD
+421,2,YE,"Yemen","YEMEN Outbound SMS - MTN",0.19800,USD
+421,999,YE,"Yemen","YEMEN Outbound SMS - Other",0.19800,USD
+421,1,YE,"Yemen","YEMEN Outbound SMS - SabaFon",0.19800,USD
+421,4,YE,"Yemen","YEMEN Outbound SMS - Y",0.19800,USD
+421,3,YE,"Yemen","YEMEN Outbound SMS - Yemen Mobile",0.19800,USD
+422,2,OM,"Oman","OMAN Outbound SMS - Omantel",0.16100,USD
+422,3,OM,"Oman","OMAN Outbound SMS - Ooredoo",0.16100,USD
+422,999,OM,"Oman","OMAN Outbound SMS - Other",0.16100,USD
+424,2,AE,"United Arab Emirates","UNITED ARAB EMIRATES Outbound SMS - Etisalat",0.10400,USD
+424,999,AE,"United Arab Emirates","UNITED ARAB EMIRATES Outbound SMS - Other",0.10400,USD
+424,3,AE,"United Arab Emirates","UNITED ARAB EMIRATES Outbound SMS - du",0.10400,USD
+425,24,IL,"Israel","ISRAEL Outbound SMS - 012 Mobile",0.20500,USD
+425,19,IL,"Israel","ISRAEL Outbound SMS - 019 Mobile",0.20500,USD
+425,26,IL,"Israel","ISRAEL Outbound SMS - Annatel",0.20500,USD
+425,23,IL,"Israel","ISRAEL Outbound SMS - Beezz",0.20500,USD
+425,18,IL,"Israel","ISRAEL Outbound SMS - Cellact Communications",0.20500,USD
+425,2,IL,"Israel","ISRAEL Outbound SMS - Cellcom",0.20500,USD
+425,8,IL,"Israel","ISRAEL Outbound SMS - Golan Telecom",0.20500,USD
+425,15,IL,"Israel","ISRAEL Outbound SMS - Home Cellular",0.20500,USD
+425,7,IL,"Israel","ISRAEL Outbound SMS - Hot Mobile",0.20500,USD
+425,77,IL,"Israel","ISRAEL Outbound SMS - Hot Mobile",0.20500,USD
+425,999,IL,"Israel","ISRAEL Outbound SMS - Other",0.20500,USD
+425,1,IL,"Israel","ISRAEL Outbound SMS - Partner",0.20500,USD
+425,3,IL,"Israel","ISRAEL Outbound SMS - Pelephone",0.20500,USD
+425,16,IL,"Israel","ISRAEL Outbound SMS - Rami Levy",0.20500,USD
+425,9,IL,"Israel","ISRAEL Outbound SMS - We4G",0.20500,USD
+425,21,IL,"Israel","ISRAEL Outbound SMS - Xphone 018",0.20500,USD
+425,14,IL,"Israel","ISRAEL Outbound SMS - Youphone",0.20500,USD
+425,20,PS,"Palestinian Territory","PALESTINIAN TERRITORY Outbound SMS - Bezeq",0.31000,USD
+425,28,PS,"Palestinian Territory","PALESTINIAN TERRITORY Outbound SMS - Hot Mobile",0.31000,USD
+425,5,PS,"Palestinian Territory","PALESTINIAN TERRITORY Outbound SMS - Jawwal",0.31000,USD
+425,6,PS,"Palestinian Territory","PALESTINIAN TERRITORY Outbound SMS - Wataniya Mobile",0.31000,USD
+425,12,PS,"Palestinian Territory","PALESTINIAN TERRITORY Outbound SMS - x2one",0.31000,USD
+426,1,BH,"Bahrain","BAHRAIN Outbound SMS - Batelco",0.03500,USD
+426,5,BH,"Bahrain","BAHRAIN Outbound SMS - Batelco",0.03500,USD
+426,999,BH,"Bahrain","BAHRAIN Outbound SMS - Other",0.03500,USD
+426,4,BH,"Bahrain","BAHRAIN Outbound SMS - STC",0.03500,USD
+426,2,BH,"Bahrain","BAHRAIN Outbound SMS - zain BH",0.03500,USD
+427,1,QA,"Qatar","QATAR Outbound SMS - Ooredoo",0.21100,USD
+427,999,QA,"Qatar","QATAR Outbound SMS - Other",0.21100,USD
+427,2,QA,"Qatar","QATAR Outbound SMS - Vodafone",0.21100,USD
+428,6,MN,"Mongolia","MONGOLIA Outbound SMS - G-Mobile",0.26500,USD
+428,98,MN,"Mongolia","MONGOLIA Outbound SMS - G-Mobile",0.26500,USD
+428,99,MN,"Mongolia","MONGOLIA Outbound SMS - Mobicom",0.26500,USD
+428,999,MN,"Mongolia","MONGOLIA Outbound SMS - Other",0.26500,USD
+428,1,MN,"Mongolia","MONGOLIA Outbound SMS - Skytel",0.26500,USD
+428,91,MN,"Mongolia","MONGOLIA Outbound SMS - Skytel",0.26500,USD
+428,88,MN,"Mongolia","MONGOLIA Outbound SMS - Unitel",0.26500,USD
+429,1,NP,"Nepal","NEPAL Outbound SMS - Namaste / NT Mobile / Sky Phone",0.23500,USD
+429,2,NP,"Nepal","NEPAL Outbound SMS - Ncell",0.23500,USD
+429,999,NP,"Nepal","NEPAL Outbound SMS - Other",0.23500,USD
+429,4,NP,"Nepal","NEPAL Outbound SMS - SmartCell",0.23500,USD
+432,2,IR,"Iran","IRAN Outbound SMS - ApTel, AzarTel",0.32700,USD
+432,19,IR,"Iran","IRAN Outbound SMS - Espadan (JV-PJS)",0.32700,USD
+432,11,IR,"Iran","IRAN Outbound SMS - IR-TCI (Hamrah-e-Avval)",0.32700,USD
+432,35,IR,"Iran","IRAN Outbound SMS - MTN Irancell",0.32700,USD
+432,999,IR,"Iran","IRAN Outbound SMS - Other",0.32700,USD
+432,20,IR,"Iran","IRAN Outbound SMS - RighTel",0.32700,USD
+432,8,IR,"Iran","IRAN Outbound SMS - Shatel Mobile",0.32700,USD
+432,14,IR,"Iran","IRAN Outbound SMS - TKC/KFZO",0.32700,USD
+432,32,IR,"Iran","IRAN Outbound SMS - Taliya",0.32700,USD
+432,1,IR,"Iran","IRAN Outbound SMS - Uname",0.32700,USD
+434,4,UZ,"Uzbekistan","UZBEKISTAN Outbound SMS - Beeline",0.43400,USD
+434,7,UZ,"Uzbekistan","UZBEKISTAN Outbound SMS - Mobiuz",0.43400,USD
+434,999,UZ,"Uzbekistan","UZBEKISTAN Outbound SMS - Other",0.43400,USD
+434,6,UZ,"Uzbekistan","UZBEKISTAN Outbound SMS - Perfectum Mobile",0.43400,USD
+434,5,UZ,"Uzbekistan","UZBEKISTAN Outbound SMS - Ucell",0.43400,USD
+434,3,UZ,"Uzbekistan","UZBEKISTAN Outbound SMS - UzMobile",0.43400,USD
+434,8,UZ,"Uzbekistan","UZBEKISTAN Outbound SMS - UzMobile",0.43400,USD
+436,4,TJ,"Tajikistan","TAJIKISTAN Outbound SMS - Babilon-M",0.42370,USD
+436,3,TJ,"Tajikistan","TAJIKISTAN Outbound SMS - MegaFon",0.42370,USD
+436,999,TJ,"Tajikistan","TAJIKISTAN Outbound SMS - Other",0.42370,USD
+436,1,TJ,"Tajikistan","TAJIKISTAN Outbound SMS - Tcell",0.42370,USD
+436,2,TJ,"Tajikistan","TAJIKISTAN Outbound SMS - Tcell",0.42370,USD
+436,5,TJ,"Tajikistan","TAJIKISTAN Outbound SMS - ZET-Mobile",0.42370,USD
+437,3,KG,"Kyrgyzstan","KYRGYZSTAN Outbound SMS - 7 Mobile",0.30200,USD
+437,1,KG,"Kyrgyzstan","KYRGYZSTAN Outbound SMS - Beeline",0.30200,USD
+437,5,KG,"Kyrgyzstan","KYRGYZSTAN Outbound SMS - MegaCom",0.30200,USD
+437,9,KG,"Kyrgyzstan","KYRGYZSTAN Outbound SMS - O!",0.30200,USD
+437,999,KG,"Kyrgyzstan","KYRGYZSTAN Outbound SMS - Other",0.30200,USD
+438,1,TM,"Turkmenistan","TURKMENISTAN Outbound SMS - MTS",0.30700,USD
+438,999,TM,"Turkmenistan","TURKMENISTAN Outbound SMS - Other",0.30700,USD
+438,2,TM,"Turkmenistan","TURKMENISTAN Outbound SMS - TM-Cell",0.30700,USD
+440,3,JP,"Japan","JAPAN Outbound SMS - IIJmio",0.07700,USD
+440,7,JP,"Japan","JAPAN Outbound SMS - KDDI",0.07700,USD
+440,8,JP,"Japan","JAPAN Outbound SMS - KDDI",0.07700,USD
+440,12,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,13,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,14,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,15,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,16,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,17,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,18,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,19,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,2,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,22,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,23,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,24,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,25,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,26,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,27,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,28,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,29,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,30,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,31,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,32,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,33,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,34,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,35,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,36,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,37,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,38,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,39,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,49,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,58,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,60,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,61,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,62,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,63,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,64,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,65,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,66,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,67,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,68,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,69,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,87,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,9,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,99,JP,"Japan","JAPAN Outbound SMS - NTT DoCoMo",0.07700,USD
+440,10,JP,"Japan","JAPAN Outbound SMS - NTT docomo",0.07700,USD
+440,999,JP,"Japan","JAPAN Outbound SMS - Other",0.07700,USD
+440,11,JP,"Japan","JAPAN Outbound SMS - Rakuten Mobile",0.07700,USD
+440,20,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,21,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,40,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,41,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,42,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,43,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,44,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,45,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,46,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,47,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,48,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,90,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,92,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,93,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,94,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,95,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,96,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,97,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,98,JP,"Japan","JAPAN Outbound SMS - SoftBank",0.07700,USD
+440,1,JP,"Japan","JAPAN Outbound SMS - UQ WiMAX",0.07700,USD
+440,0,JP,"Japan","JAPAN Outbound SMS - Y!Mobile",0.07700,USD
+440,50,JP,"Japan","JAPAN Outbound SMS - au",0.07700,USD
+440,51,JP,"Japan","JAPAN Outbound SMS - au",0.07700,USD
+440,52,JP,"Japan","JAPAN Outbound SMS - au",0.07700,USD
+440,53,JP,"Japan","JAPAN Outbound SMS - au",0.07700,USD
+440,54,JP,"Japan","JAPAN Outbound SMS - au",0.07700,USD
+440,70,JP,"Japan","JAPAN Outbound SMS - au",0.07700,USD
+440,71,JP,"Japan","JAPAN Outbound SMS - au",0.07700,USD
+440,72,JP,"Japan","JAPAN Outbound SMS - au",0.07700,USD
+440,73,JP,"Japan","JAPAN Outbound SMS - au",0.07700,USD
+440,74,JP,"Japan","JAPAN Outbound SMS - au",0.07700,USD
+440,75,JP,"Japan","JAPAN Outbound SMS - au",0.07700,USD
+440,76,JP,"Japan","JAPAN Outbound SMS - au",0.07700,USD
+440,78,JP,"Japan","JAPAN Outbound SMS - au",0.07700,USD
+450,2,KR,"Korea, Republic of","KOREA REPUBLIC Outbound SMS - KT",0.04400,USD
+450,6,KR,"Korea, Republic of","KOREA REPUBLIC Outbound SMS - LG U+",0.04400,USD
+450,999,KR,"Korea, Republic of","KOREA REPUBLIC Outbound SMS - Other",0.04400,USD
+450,5,KR,"Korea, Republic of","KOREA REPUBLIC Outbound SMS - SKTelecom",0.04400,USD
+450,11,KR,"Korea, Republic of","KOREA REPUBLIC Outbound SMS - Tplus",0.04400,USD
+450,8,KR,"Korea, Republic of","KOREA REPUBLIC Outbound SMS - olleh",0.04400,USD
+452,7,VN,"Vietnam","VIETNAM Outbound SMS - Gmobile",0.13600,USD
+452,8,VN,"Vietnam","VIETNAM Outbound SMS - I-Telecom",0.13600,USD
+452,1,VN,"Vietnam","VIETNAM Outbound SMS - MobiFone",0.13600,USD
+452,999,VN,"Vietnam","VIETNAM Outbound SMS - Other",0.13600,USD
+452,9,VN,"Vietnam","VIETNAM Outbound SMS - REDDI",0.13600,USD
+452,5,VN,"Vietnam","VIETNAM Outbound SMS - Vietnamobile",0.13600,USD
+452,4,VN,"Vietnam","VIETNAM Outbound SMS - Viettel Mobile",0.13600,USD
+452,2,VN,"Vietnam","VIETNAM Outbound SMS - Vinaphone",0.13600,USD
+454,0,HK,"Hong Kong","HONG KONG Outbound SMS - 1O1O / One2Free / New World Mobility / SUNMobile",0.06300,USD
+454,21,HK,"Hong Kong","HONG KONG Outbound SMS - 21Vianet Mobile",0.06300,USD
+454,14,HK,"Hong Kong","HONG KONG Outbound SMS - 3",0.06300,USD
+454,3,HK,"Hong Kong","HONG KONG Outbound SMS - 3",0.06300,USD
+454,4,HK,"Hong Kong","HONG KONG Outbound SMS - 3 (2G)",0.06300,USD
+454,11,HK,"Hong Kong","HONG KONG Outbound SMS - CHKT",0.06300,USD
+454,1,HK,"Hong Kong","HONG KONG Outbound SMS - CITIC Telecom",0.06300,USD
+454,12,HK,"Hong Kong","HONG KONG Outbound SMS - CMCC HK",0.06300,USD
+454,13,HK,"Hong Kong","HONG KONG Outbound SMS - CMCC HK",0.06300,USD
+454,18,HK,"Hong Kong","HONG KONG Outbound SMS - CSL",0.06300,USD
+454,2,HK,"Hong Kong","HONG KONG Outbound SMS - CSL",0.06300,USD
+454,31,HK,"Hong Kong","HONG KONG Outbound SMS - CTExcel",0.06300,USD
+454,9,HK,"Hong Kong","HONG KONG Outbound SMS - China Motion",0.06300,USD
+454,7,HK,"Hong Kong","HONG KONG Outbound SMS - China Unicom",0.06300,USD
+454,36,HK,"Hong Kong","HONG KONG Outbound SMS - Easco Telecommunications Limited",0.06300,USD
+454,23,HK,"Hong Kong","HONG KONG Outbound SMS - Lycamobile",0.06300,USD
+454,24,HK,"Hong Kong","HONG KONG Outbound SMS - Multibyte",0.06300,USD
+454,10,HK,"Hong Kong","HONG KONG Outbound SMS - New World Mobility",0.06300,USD
+454,999,HK,"Hong Kong","HONG KONG Outbound SMS - Other",0.06300,USD
+454,16,HK,"Hong Kong","HONG KONG Outbound SMS - PCCW Mobile (2G)",0.06300,USD
+454,19,HK,"Hong Kong","HONG KONG Outbound SMS - PCCW Mobile (3G)",0.06300,USD
+454,20,HK,"Hong Kong","HONG KONG Outbound SMS - PCCW Mobile (4G)",0.06300,USD
+454,29,HK,"Hong Kong","HONG KONG Outbound SMS - PCCW Mobile (CDMA)",0.06300,USD
+454,15,HK,"Hong Kong","HONG KONG Outbound SMS - SmarTone",0.06300,USD
+454,17,HK,"Hong Kong","HONG KONG Outbound SMS - SmarTone",0.06300,USD
+454,6,HK,"Hong Kong","HONG KONG Outbound SMS - SmarTone",0.06300,USD
+454,8,HK,"Hong Kong","HONG KONG Outbound SMS - Truphone",0.06300,USD
+454,35,HK,"Hong Kong","HONG KONG Outbound SMS - Webbing Hong Kong Ltd",0.06300,USD
+455,3,MO,"Macao","MACAU Outbound SMS - 3",0.05300,USD
+455,5,MO,"Macao","MACAU Outbound SMS - 3",0.05300,USD
+455,1,MO,"Macao","MACAU Outbound SMS - CTM",0.05300,USD
+455,4,MO,"Macao","MACAU Outbound SMS - CTM",0.05300,USD
+455,2,MO,"Macao","MACAU Outbound SMS - China Telecom",0.05300,USD
+455,7,MO,"Macao","MACAU Outbound SMS - China Telecom",0.05300,USD
+455,999,MO,"Macao","MACAU Outbound SMS - Other",0.05300,USD
+455,0,MO,"Macao","MACAU Outbound SMS - SmarTone",0.05300,USD
+456,1,KH,"Cambodia","CAMBODIA Outbound SMS - Cellcard",0.25270,USD
+456,18,KH,"Cambodia","CAMBODIA Outbound SMS - Cellcard",0.25270,USD
+456,16,KH,"Cambodia","CAMBODIA Outbound SMS - CooTel",0.25270,USD
+456,8,KH,"Cambodia","CAMBODIA Outbound SMS - Metfone",0.25270,USD
+456,9,KH,"Cambodia","CAMBODIA Outbound SMS - Metfone",0.25270,USD
+456,999,KH,"Cambodia","CAMBODIA Outbound SMS - Other",0.25270,USD
+456,11,KH,"Cambodia","CAMBODIA Outbound SMS - SEATEL",0.25270,USD
+456,2,KH,"Cambodia","CAMBODIA Outbound SMS - Smart",0.25270,USD
+456,5,KH,"Cambodia","CAMBODIA Outbound SMS - Smart",0.25270,USD
+456,6,KH,"Cambodia","CAMBODIA Outbound SMS - Smart",0.25270,USD
+456,4,KH,"Cambodia","CAMBODIA Outbound SMS - qb",0.25270,USD
+457,8,LA,"Lao, PDR","LAOS PDR Outbound SMS - Beeline",0.24370,USD
+457,2,LA,"Lao, PDR","LAOS PDR Outbound SMS - ETL",0.24370,USD
+457,1,LA,"Lao, PDR","LAOS PDR Outbound SMS - LaoTel",0.24370,USD
+457,999,LA,"Lao, PDR","LAOS PDR Outbound SMS - Other",0.24370,USD
+457,3,LA,"Lao, PDR","LAOS PDR Outbound SMS - Unitel",0.24370,USD
+460,0,CN,"China","CHINA Outbound SMS - China Mobile",0.03500,USD
+460,2,CN,"China","CHINA Outbound SMS - China Mobile",0.03500,USD
+460,4,CN,"China","CHINA Outbound SMS - China Mobile",0.03500,USD
+460,7,CN,"China","CHINA Outbound SMS - China Mobile",0.03500,USD
+460,8,CN,"China","CHINA Outbound SMS - China Mobile",0.03500,USD
+460,11,CN,"China","CHINA Outbound SMS - China Telecom",0.03500,USD
+460,3,CN,"China","CHINA Outbound SMS - China Telecom",0.03500,USD
+460,5,CN,"China","CHINA Outbound SMS - China Telecom",0.03500,USD
+460,1,CN,"China","CHINA Outbound SMS - China Unicom",0.03500,USD
+460,6,CN,"China","CHINA Outbound SMS - China Unicom",0.03500,USD
+460,9,CN,"China","CHINA Outbound SMS - China Unicom",0.03500,USD
+460,999,CN,"China","CHINA Outbound SMS - Other",0.03500,USD
+466,92,TW,"Taiwan","TAIWAN Outbound SMS - Chunghwa",0.05900,USD
+466,11,TW,"Taiwan","TAIWAN Outbound SMS - Chunghwa LDM",0.05900,USD
+466,56,TW,"Taiwan","TAIWAN Outbound SMS - FITEL",0.05900,USD
+466,1,TW,"Taiwan","TAIWAN Outbound SMS - FarEasTone",0.05900,USD
+466,2,TW,"Taiwan","TAIWAN Outbound SMS - FarEasTone",0.05900,USD
+466,3,TW,"Taiwan","TAIWAN Outbound SMS - FarEasTone",0.05900,USD
+466,6,TW,"Taiwan","TAIWAN Outbound SMS - FarEasTone",0.05900,USD
+466,88,TW,"Taiwan","TAIWAN Outbound SMS - FarEasTone",0.05900,USD
+466,5,TW,"Taiwan","TAIWAN Outbound SMS - Gt",0.05900,USD
+466,93,TW,"Taiwan","TAIWAN Outbound SMS - MobiTai",0.05900,USD
+466,999,TW,"Taiwan","TAIWAN Outbound SMS - Other",0.05900,USD
+466,89,TW,"Taiwan","TAIWAN Outbound SMS - T Star",0.05900,USD
+466,90,TW,"Taiwan","TAIWAN Outbound SMS - T Star",0.05900,USD
+466,97,TW,"Taiwan","TAIWAN Outbound SMS - Taiwan Mobile",0.05900,USD
+466,99,TW,"Taiwan","TAIWAN Outbound SMS - TransAsia",0.05900,USD
+470,7,BD,"Bangladesh","BANGLADESH Outbound SMS - Airtel",0.31170,USD
+470,3,BD,"Bangladesh","BANGLADESH Outbound SMS - Banglalink",0.31170,USD
+470,1,BD,"Bangladesh","BANGLADESH Outbound SMS - Grameenphone",0.31170,USD
+470,999,BD,"Bangladesh","BANGLADESH Outbound SMS - Other",0.31170,USD
+470,2,BD,"Bangladesh","BANGLADESH Outbound SMS - Robi",0.31170,USD
+470,4,BD,"Bangladesh","BANGLADESH Outbound SMS - TeleTalk",0.31170,USD
+472,1,MV,"Maldives","MALDIVES Outbound SMS - Dhiraagu",0.27800,USD
+472,2,MV,"Maldives","MALDIVES Outbound SMS - Ooredoo",0.27800,USD
+472,999,MV,"Maldives","MALDIVES Outbound SMS - Other",0.27800,USD
+502,156,MY,"Malaysia","MALAYSIA Outbound SMS - Altel",0.23600,USD
+502,13,MY,"Malaysia","MALAYSIA Outbound SMS - Celcom",0.23600,USD
+502,19,MY,"Malaysia","MALAYSIA Outbound SMS - Celcom",0.23600,USD
+502,155,MY,"Malaysia","MALAYSIA Outbound SMS - Clixster",0.23600,USD
+502,10,MY,"Malaysia","MALAYSIA Outbound SMS - DiGI",0.23600,USD
+502,16,MY,"Malaysia","MALAYSIA Outbound SMS - DiGi",0.23600,USD
+502,12,MY,"Malaysia","MALAYSIA Outbound SMS - Maxis",0.23600,USD
+502,17,MY,"Malaysia","MALAYSIA Outbound SMS - Maxis",0.23600,USD
+502,999,MY,"Malaysia","MALAYSIA Outbound SMS - Other",0.23600,USD
+502,151,MY,"Malaysia","MALAYSIA Outbound SMS - SalamFone",0.23600,USD
+502,11,MY,"Malaysia","MALAYSIA Outbound SMS - TM Homeline",0.23600,USD
+502,157,MY,"Malaysia","MALAYSIA Outbound SMS - Telin",0.23600,USD
+502,154,MY,"Malaysia","MALAYSIA Outbound SMS - Tron",0.23600,USD
+502,150,MY,"Malaysia","MALAYSIA Outbound SMS - Tune Talk",0.23600,USD
+502,18,MY,"Malaysia","MALAYSIA Outbound SMS - U Mobile",0.23600,USD
+502,195,MY,"Malaysia","MALAYSIA Outbound SMS - XOX Com",0.23600,USD
+502,152,MY,"Malaysia","MALAYSIA Outbound SMS - Yes",0.23600,USD
+502,153,MY,"Malaysia","MALAYSIA Outbound SMS - unifi",0.23600,USD
+505,30,AU,"Australia","AUSTRALIA Outbound SMS - Compatel",0.04600,USD
+505,19,AU,"Australia","AUSTRALIA Outbound SMS - Lycamobile",0.04600,USD
+505,2,AU,"Australia","AUSTRALIA Outbound SMS - Optus",0.04600,USD
+505,999,AU,"Australia","AUSTRALIA Outbound SMS - Other",0.04600,USD
+505,50,AU,"Australia","AUSTRALIA Outbound SMS - Pivotel",0.04600,USD
+505,88,AU,"Australia","AUSTRALIA Outbound SMS - Pivotel",0.04600,USD
+505,13,AU,"Australia","AUSTRALIA Outbound SMS - RailCorp",0.04600,USD
+505,1,AU,"Australia","AUSTRALIA Outbound SMS - Telstra",0.04600,USD
+505,38,AU,"Australia","AUSTRALIA Outbound SMS - Truphone",0.04600,USD
+505,16,AU,"Australia","AUSTRALIA Outbound SMS - VicTrack",0.04600,USD
+505,3,AU,"Australia","AUSTRALIA Outbound SMS - Vodafone",0.04600,USD
+505,10,NF,"Norfolk Island","NORFOLK ISLAND Outbound SMS - Norfolk Is.",0.04600,USD
+510,89,ID,"Indonesia","INDONESIA Outbound SMS - 3",0.41900,USD
+510,8,ID,"Indonesia","INDONESIA Outbound SMS - AXIS",0.41900,USD
+510,28,ID,"Indonesia","INDONESIA Outbound SMS - Fren/Hepi",0.41900,USD
+510,21,ID,"Indonesia","INDONESIA Outbound SMS - IM3",0.41900,USD
+510,1,ID,"Indonesia","INDONESIA Outbound SMS - Indosat Ooredoo Hutchison",0.41900,USD
+510,27,ID,"Indonesia","INDONESIA Outbound SMS - Net 1",0.41900,USD
+510,999,ID,"Indonesia","INDONESIA Outbound SMS - Other",0.41900,USD
+510,9,ID,"Indonesia","INDONESIA Outbound SMS - Smartfren",0.41900,USD
+510,3,ID,"Indonesia","INDONESIA Outbound SMS - StarOne",0.41900,USD
+510,10,ID,"Indonesia","INDONESIA Outbound SMS - Telkomsel",0.41900,USD
+510,11,ID,"Indonesia","INDONESIA Outbound SMS - XL",0.41900,USD
+514,999,TL,"Timor-Leste","EAST TIMOR Outbound SMS - Other",0.19300,USD
+514,2,TL,"Timor-Leste","EAST TIMOR Outbound SMS - TT",0.19300,USD
+514,3,TL,"Timor-Leste","EAST TIMOR Outbound SMS - Telemor",0.19300,USD
+514,1,TL,"Timor-Leste","EAST TIMOR Outbound SMS - Telkomcel",0.19300,USD
+515,66,PH,"Philippines","PHILIPPINES Outbound SMS - DITO",0.18100,USD
+515,2,PH,"Philippines","PHILIPPINES Outbound SMS - Globe",0.18100,USD
+515,1,PH,"Philippines","PHILIPPINES Outbound SMS - Islacom",0.18100,USD
+515,999,PH,"Philippines","PHILIPPINES Outbound SMS - Other",0.18100,USD
+515,3,PH,"Philippines","PHILIPPINES Outbound SMS - SMART",0.18100,USD
+515,5,PH,"Philippines","PHILIPPINES Outbound SMS - Sun Cellular",0.18100,USD
+520,20,TH,"Thailand","THAILAND Outbound SMS - ACeS",0.02600,USD
+520,1,TH,"Thailand","THAILAND Outbound SMS - AIS",0.02600,USD
+520,3,TH,"Thailand","THAILAND Outbound SMS - AIS",0.02600,USD
+520,23,TH,"Thailand","THAILAND Outbound SMS - AIS GSM 1800",0.02600,USD
+520,15,TH,"Thailand","THAILAND Outbound SMS - AIS-T / NT Mobile",0.02600,USD
+520,2,TH,"Thailand","THAILAND Outbound SMS - CAT CDMA",0.02600,USD
+520,999,TH,"Thailand","THAILAND Outbound SMS - Other",0.02600,USD
+520,99,TH,"Thailand","THAILAND Outbound SMS - TrueMove",0.02600,USD
+520,4,TH,"Thailand","THAILAND Outbound SMS - TrueMove H",0.02600,USD
+520,0,TH,"Thailand","THAILAND Outbound SMS - TrueMove H / my by NT",0.02600,USD
+520,18,TH,"Thailand","THAILAND Outbound SMS - dtac",0.02600,USD
+520,5,TH,"Thailand","THAILAND Outbound SMS - dtac",0.02600,USD
+520,47,TH,"Thailand","THAILAND Outbound SMS - dtac-T",0.02600,USD
+525,9,SG,"Singapore","SINGAPORE Outbound SMS - Circles.Life",0.04590,USD
+525,12,SG,"Singapore","SINGAPORE Outbound SMS - Grid",0.04590,USD
+525,3,SG,"Singapore","SINGAPORE Outbound SMS - M1",0.04590,USD
+525,999,SG,"Singapore","SINGAPORE Outbound SMS - Other",0.04590,USD
+525,1,SG,"Singapore","SINGAPORE Outbound SMS - SingTel",0.04590,USD
+525,7,SG,"Singapore","SINGAPORE Outbound SMS - SingTel",0.04590,USD
+525,2,SG,"Singapore","SINGAPORE Outbound SMS - SingTel-G18",0.04590,USD
+525,5,SG,"Singapore","SINGAPORE Outbound SMS - StarHub",0.04590,USD
+525,6,SG,"Singapore","SINGAPORE Outbound SMS - StarHub",0.04590,USD
+525,8,SG,"Singapore","SINGAPORE Outbound SMS - StarHub",0.04590,USD
+525,10,SG,"Singapore","SINGAPORE Outbound SMS - TPG Telecom",0.04590,USD
+528,11,BN,"Brunei Darussalam","BRUNEI Outbound SMS - DST",0.06200,USD
+528,999,BN,"Brunei Darussalam","BRUNEI Outbound SMS - Other",0.06200,USD
+528,2,BN,"Brunei Darussalam","BRUNEI Outbound SMS - PCSB",0.06200,USD
+528,1,BN,"Brunei Darussalam","BRUNEI Outbound SMS - TelBru",0.06200,USD
+530,24,NZ,"New Zealand","NEW ZEALAND Outbound SMS - 2degrees",0.09700,USD
+530,6,NZ,"New Zealand","NEW ZEALAND Outbound SMS - FX Networks",0.09700,USD
+530,999,NZ,"New Zealand","NEW ZEALAND Outbound SMS - Other",0.09700,USD
+530,5,NZ,"New Zealand","NEW ZEALAND Outbound SMS - Spark",0.09700,USD
+530,2,NZ,"New Zealand","NEW ZEALAND Outbound SMS - Telecom",0.09700,USD
+530,4,NZ,"New Zealand","NEW ZEALAND Outbound SMS - TelstraClear",0.09700,USD
+530,1,NZ,"New Zealand","NEW ZEALAND Outbound SMS - Vodafone",0.09700,USD
+536,2,NR,"Nauru","NAURU Outbound SMS - Digicel",0.16030,USD
+536,999,NR,"Nauru","NAURU Outbound SMS - Other",0.16030,USD
+537,3,PG,"Papua New Guinea","PAPUA NEW GUINEA Outbound SMS - Digicel",0.67900,USD
+537,999,PG,"Papua New Guinea","PAPUA NEW GUINEA Outbound SMS - Other",0.67900,USD
+537,1,PG,"Papua New Guinea","PAPUA NEW GUINEA Outbound SMS - bmobile",0.67900,USD
+537,2,PG,"Papua New Guinea","PAPUA NEW GUINEA Outbound SMS - citifon",0.67900,USD
+539,88,TO,"Tonga","TONGA Outbound SMS - Digicel",0.15100,USD
+539,999,TO,"Tonga","TONGA Outbound SMS - Other",0.15100,USD
+539,43,TO,"Tonga","TONGA Outbound SMS - Shoreline",0.15100,USD
+539,1,TO,"Tonga","TONGA Outbound SMS - U-Call",0.15100,USD
+540,1,SB,"Solomon Islands","SOLOMON ISLANDS Outbound SMS - BREEZE",0.08900,USD
+540,2,SB,"Solomon Islands","SOLOMON ISLANDS Outbound SMS - BeMobile",0.08900,USD
+540,999,SB,"Solomon Islands","SOLOMON ISLANDS Outbound SMS - Other",0.08900,USD
+541,5,VU,"Vanuatu","VANUATU Outbound SMS - Digicel",0.19600,USD
+541,999,VU,"Vanuatu","VANUATU Outbound SMS - Other",0.19600,USD
+541,1,VU,"Vanuatu","VANUATU Outbound SMS - SMILE",0.19600,USD
+542,2,FJ,"Fiji","FIJI Outbound SMS - Digicel",0.15500,USD
+542,999,FJ,"Fiji","FIJI Outbound SMS - Other",0.15500,USD
+542,1,FJ,"Fiji","FIJI Outbound SMS - Vodafone",0.15500,USD
+543,1,WF,"Wallis and Futuna","WALLIS AND FUTUNA Outbound SMS - Manuia",0.10500,USD
+543,999,WF,"Wallis and Futuna","WALLIS AND FUTUNA Outbound SMS - Other",0.10500,USD
+544,11,AS,"American Samoa","AMERICAN SAMOA Outbound SMS - Bluesky",0.16900,USD
+544,999,AS,"American Samoa","AMERICAN SAMOA Outbound SMS - Other",0.16900,USD
+545,1,KI,"Kiribati","KIRIBATI Outbound SMS - Kiribati - ATH",0.13500,USD
+545,9,KI,"Kiribati","KIRIBATI Outbound SMS - Kiribati - Frigate Net",0.13500,USD
+545,999,KI,"Kiribati","KIRIBATI Outbound SMS - Kiribati - Other",0.13500,USD
+546,1,NC,"New Caledonia","NEW CALEDONIA Outbound SMS - Mobilis",0.15800,USD
+546,999,NC,"New Caledonia","NEW CALEDONIA Outbound SMS - Other",0.15800,USD
+547,5,PF,"French Polynesia","FRENCH POLYNESIA Outbound SMS - Ora",0.15730,USD
+547,999,PF,"French Polynesia","FRENCH POLYNESIA Outbound SMS - Other",0.15730,USD
+547,20,PF,"French Polynesia","FRENCH POLYNESIA Outbound SMS - Vini",0.15730,USD
+547,15,PF,"French Polynesia","FRENCH POLYNESIA Outbound SMS - Vodafone",0.15730,USD
+548,999,CK,"Cook Islands","COOK ISLANDS Outbound SMS - Other",0.13300,USD
+548,1,CK,"Cook Islands","COOK ISLANDS Outbound SMS - Vodafone",0.13300,USD
+549,0,WS,"Samoa","SAMOA Outbound SMS - Digicel",0.22500,USD
+549,1,WS,"Samoa","SAMOA Outbound SMS - Digicel",0.22500,USD
+549,999,WS,"Samoa","SAMOA Outbound SMS - Other",0.22500,USD
+549,27,WS,"Samoa","SAMOA Outbound SMS - Vodafone",0.22500,USD
+550,1,FM,"Micronesia","MICRONESIA Outbound SMS - FSMTC",0.07000,USD
+550,999,FM,"Micronesia","MICRONESIA Outbound SMS - Other",0.07000,USD
+551,1,MH,"Marshall Islands","MARSHALL ISLANDS Outbound SMS - MINTA",0.14700,USD
+551,999,MH,"Marshall Islands","MARSHALL ISLANDS Outbound SMS - Other",0.14700,USD
+552,999,PW,"Palau","PALAU Outbound SMS - Other",0.09200,USD
+552,1,PW,"Palau","PALAU Outbound SMS - PNCC",0.09200,USD
+553,999,TV,"Tuvalu","TUVALU Outbound SMS - Other",0.15000,USD
+553,1,TV,"Tuvalu","TUVALU Outbound SMS - TTC",0.15000,USD
+554,999,TK,"Tokelau","TOKELAU Outbound SMS - Other",0.11490,USD
+554,1,TK,"Tokelau","TOKELAU Outbound SMS - Teletok",0.11490,USD
+555,999,NU,"Niue","NIUE Outbound SMS - Other",0.17800,USD
+555,1,NU,"Niue","NIUE Outbound SMS - Telecom Niue",0.17800,USD
+602,3,EG,"Egypt","EGYPT Outbound SMS - Etisalat",0.34250,USD
+602,1,EG,"Egypt","EGYPT Outbound SMS - Orange",0.34250,USD
+602,999,EG,"Egypt","EGYPT Outbound SMS - Other",0.34250,USD
+602,2,EG,"Egypt","EGYPT Outbound SMS - Vodafone",0.34250,USD
+602,4,EG,"Egypt","EGYPT Outbound SMS - WE",0.34250,USD
+603,2,DZ,"Algeria","ALGERIA Outbound SMS - Djezzy",0.22500,USD
+603,1,DZ,"Algeria","ALGERIA Outbound SMS - Mobilis",0.22500,USD
+603,3,DZ,"Algeria","ALGERIA Outbound SMS - Ooredoo",0.22500,USD
+603,999,DZ,"Algeria","ALGERIA Outbound SMS - Other",0.22500,USD
+604,1,MA,"Morocco","MOROCCO Outbound SMS - IAM",0.21300,USD
+604,2,MA,"Morocco","MOROCCO Outbound SMS - INWI",0.21300,USD
+604,5,MA,"Morocco","MOROCCO Outbound SMS - INWI",0.21300,USD
+604,0,MA,"Morocco","MOROCCO Outbound SMS - Orange Morocco",0.21300,USD
+604,999,MA,"Morocco","MOROCCO Outbound SMS - Other",0.21300,USD
+605,6,TN,"Tunisia","TUNISIA Outbound SMS - Lycamobile",0.33990,USD
+605,3,TN,"Tunisia","TUNISIA Outbound SMS - Ooredoo",0.33990,USD
+605,1,TN,"Tunisia","TUNISIA Outbound SMS - Orange",0.33990,USD
+605,999,TN,"Tunisia","TUNISIA Outbound SMS - Other",0.33990,USD
+605,2,TN,"Tunisia","TUNISIA Outbound SMS - Tunicell",0.33990,USD
+606,3,LY,"Libya","LIBYA Outbound SMS - Libya Phone",0.37800,USD
+606,0,LY,"Libya","LIBYA Outbound SMS - Libyana",0.37800,USD
+606,1,LY,"Libya","LIBYA Outbound SMS - Madar",0.37800,USD
+606,999,LY,"Libya","LIBYA Outbound SMS - Other",0.37800,USD
+607,2,GM,"Gambia","GAMBIA Outbound SMS - Africell",0.14100,USD
+607,3,GM,"Gambia","GAMBIA Outbound SMS - Comium",0.14100,USD
+607,1,GM,"Gambia","GAMBIA Outbound SMS - Gamcel",0.14100,USD
+607,999,GM,"Gambia","GAMBIA Outbound SMS - Other",0.14100,USD
+607,4,GM,"Gambia","GAMBIA Outbound SMS - QCell",0.14100,USD
+608,3,SN,"Senegal","SENEGAL Outbound SMS - Expresso",0.29000,USD
+608,2,SN,"Senegal","SENEGAL Outbound SMS - Free",0.29000,USD
+608,1,SN,"Senegal","SENEGAL Outbound SMS - Orange",0.29000,USD
+608,999,SN,"Senegal","SENEGAL Outbound SMS - Other",0.29000,USD
+609,2,MR,"Mauritania","MAURITANIA Outbound SMS - Chinguitel",0.21400,USD
+609,1,MR,"Mauritania","MAURITANIA Outbound SMS - Mattel",0.21400,USD
+609,10,MR,"Mauritania","MAURITANIA Outbound SMS - Moov",0.21400,USD
+609,999,MR,"Mauritania","MAURITANIA Outbound SMS - Other",0.21400,USD
+610,1,ML,"Mali","MALI Outbound SMS - Malitel",0.31200,USD
+610,2,ML,"Mali","MALI Outbound SMS - Orange",0.31200,USD
+610,999,ML,"Mali","MALI Outbound SMS - Other",0.31200,USD
+610,3,ML,"Mali","MALI Outbound SMS - Telecel",0.31200,USD
+611,5,GN,"Guinea","GUINEA Outbound SMS - Cellcom",0.24690,USD
+611,4,GN,"Guinea","GUINEA Outbound SMS - MTN",0.24690,USD
+611,1,GN,"Guinea","GUINEA Outbound SMS - Orange",0.24690,USD
+611,999,GN,"Guinea","GUINEA Outbound SMS - Other",0.24690,USD
+611,2,GN,"Guinea","GUINEA Outbound SMS - Sotelgui",0.24690,USD
+611,3,GN,"Guinea","GUINEA Outbound SMS - Telecel Guinee",0.24690,USD
+612,6,CI,"Cote d'Ivoire","IVORY COAST Outbound SMS - GreenN",0.30990,USD
+612,4,CI,"Cote d'Ivoire","IVORY COAST Outbound SMS - KoZ",0.30990,USD
+612,5,CI,"Cote d'Ivoire","IVORY COAST Outbound SMS - MTN",0.30990,USD
+612,2,CI,"Cote d'Ivoire","IVORY COAST Outbound SMS - Moov",0.30990,USD
+612,3,CI,"Cote d'Ivoire","IVORY COAST Outbound SMS - Orange",0.30990,USD
+612,999,CI,"Cote d'Ivoire","IVORY COAST Outbound SMS - Other",0.30990,USD
+613,2,BF,"Burkina Faso","BURKINA FASO Outbound SMS - Orange",0.17200,USD
+613,999,BF,"Burkina Faso","BURKINA FASO Outbound SMS - Other",0.17200,USD
+613,3,BF,"Burkina Faso","BURKINA FASO Outbound SMS - Telecel Faso",0.17200,USD
+613,1,BF,"Burkina Faso","BURKINA FASO Outbound SMS - Telmob",0.17200,USD
+614,2,NE,"Niger","NIGER Outbound SMS - Airtel",0.28200,USD
+614,3,NE,"Niger","NIGER Outbound SMS - Moov",0.28200,USD
+614,4,NE,"Niger","NIGER Outbound SMS - Orange",0.28200,USD
+614,999,NE,"Niger","NIGER Outbound SMS - Other",0.28200,USD
+614,1,NE,"Niger","NIGER Outbound SMS - SahelCom",0.28200,USD
+615,3,TG,"Togo","TOGO Outbound SMS - Moov",0.31500,USD
+615,999,TG,"Togo","TOGO Outbound SMS - Other",0.31500,USD
+615,1,TG,"Togo","TOGO Outbound SMS - Togo Cell",0.31500,USD
+616,4,BJ,"Benin","BENIN Outbound SMS - BBCOM",0.22900,USD
+616,5,BJ,"Benin","BENIN Outbound SMS - Glo",0.22900,USD
+616,3,BJ,"Benin","BENIN Outbound SMS - MTN",0.22900,USD
+616,2,BJ,"Benin","BENIN Outbound SMS - Moov",0.22900,USD
+616,999,BJ,"Benin","BENIN Outbound SMS - Other",0.22900,USD
+617,3,MU,"Mauritius","MAURITIUS Outbound SMS - CHILI",0.12700,USD
+617,10,MU,"Mauritius","MAURITIUS Outbound SMS - Emtel",0.12700,USD
+617,2,MU,"Mauritius","MAURITIUS Outbound SMS - MOKOZE / AZU",0.12700,USD
+617,999,MU,"Mauritius","MAURITIUS Outbound SMS - Other",0.12700,USD
+617,1,MU,"Mauritius","MAURITIUS Outbound SMS - my.t",0.12700,USD
+618,1,LR,"Liberia","LIBERIA Outbound SMS - Lonestar Cell MTN",0.19310,USD
+618,4,LR,"Liberia","LIBERIA Outbound SMS - Novafone",0.19310,USD
+618,7,LR,"Liberia","LIBERIA Outbound SMS - Orange LBR",0.19310,USD
+618,999,LR,"Liberia","LIBERIA Outbound SMS - Other",0.19310,USD
+619,2,SL,"Sierra Leone","SIERRA LEONE Outbound SMS - Africell",0.23900,USD
+619,3,SL,"Sierra Leone","SIERRA LEONE Outbound SMS - Africell",0.23900,USD
+619,5,SL,"Sierra Leone","SIERRA LEONE Outbound SMS - Africell",0.23900,USD
+619,1,SL,"Sierra Leone","SIERRA LEONE Outbound SMS - Orange",0.23900,USD
+619,999,SL,"Sierra Leone","SIERRA LEONE Outbound SMS - Other",0.23900,USD
+619,7,SL,"Sierra Leone","SIERRA LEONE Outbound SMS - Qcell",0.23900,USD
+619,6,SL,"Sierra Leone","SIERRA LEONE Outbound SMS - SierraTel",0.23900,USD
+620,3,GH,"Ghana","GHANA Outbound SMS - AirtelTigo",0.29460,USD
+620,6,GH,"Ghana","GHANA Outbound SMS - AirtelTigo",0.29460,USD
+620,4,GH,"Ghana","GHANA Outbound SMS - Expresso",0.29460,USD
+620,7,GH,"Ghana","GHANA Outbound SMS - Globacom",0.29460,USD
+620,1,GH,"Ghana","GHANA Outbound SMS - MTN",0.29460,USD
+620,999,GH,"Ghana","GHANA Outbound SMS - Other",0.29460,USD
+620,2,GH,"Ghana","GHANA Outbound SMS - Vodafone",0.29460,USD
+621,60,NG,"Nigeria","NIGERIA Outbound SMS - 9mobile",0.36600,USD
+621,20,NG,"Nigeria","NIGERIA Outbound SMS - Airtel",0.36600,USD
+621,50,NG,"Nigeria","NIGERIA Outbound SMS - Glo",0.36600,USD
+621,30,NG,"Nigeria","NIGERIA Outbound SMS - MTN",0.36600,USD
+621,40,NG,"Nigeria","NIGERIA Outbound SMS - Ntel",0.36600,USD
+621,999,NG,"Nigeria","NIGERIA Outbound SMS - Other",0.36600,USD
+621,27,NG,"Nigeria","NIGERIA Outbound SMS - Smile",0.36600,USD
+621,25,NG,"Nigeria","NIGERIA Outbound SMS - Visafone",0.36600,USD
+622,1,TD,"Chad","CHAD Outbound SMS - Airtel",0.27500,USD
+622,999,TD,"Chad","CHAD Outbound SMS - Other",0.27500,USD
+622,4,TD,"Chad","CHAD Outbound SMS - Salam",0.27500,USD
+622,3,TD,"Chad","CHAD Outbound SMS - Tigo",0.27500,USD
+623,4,CF,"Central African Republic","CENTRAL AFRICA Outbound SMS - Azur",0.42900,USD
+623,1,CF,"Central African Republic","CENTRAL AFRICA Outbound SMS - Moov",0.42900,USD
+623,3,CF,"Central African Republic","CENTRAL AFRICA Outbound SMS - Orange",0.42900,USD
+623,999,CF,"Central African Republic","CENTRAL AFRICA Outbound SMS - Other",0.42900,USD
+623,2,CF,"Central African Republic","CENTRAL AFRICA Outbound SMS - TC",0.42900,USD
+624,1,CM,"Cameroon","CAMEROON Outbound SMS - MTN Cameroon",0.18600,USD
+624,4,CM,"Cameroon","CAMEROON Outbound SMS - Nexttel",0.18600,USD
+624,2,CM,"Cameroon","CAMEROON Outbound SMS - Orange",0.18600,USD
+624,999,CM,"Cameroon","CAMEROON Outbound SMS - Other",0.18600,USD
+625,1,CV,"Cape Verde","CAPE VERDE Outbound SMS - CVMOVEL",0.17600,USD
+625,999,CV,"Cape Verde","CAPE VERDE Outbound SMS - Other",0.17600,USD
+625,2,CV,"Cape Verde","CAPE VERDE Outbound SMS - T+",0.17600,USD
+626,1,ST,"Sao Tome and Principe","SAO TOME AND PRINCIPE Outbound SMS - CSTmovel",0.11800,USD
+626,999,ST,"Sao Tome and Principe","SAO TOME AND PRINCIPE Outbound SMS - Other",0.11800,USD
+626,2,ST,"Sao Tome and Principe","SAO TOME AND PRINCIPE Outbound SMS - Unitel STP",0.11800,USD
+627,3,GQ,"Equatorial Guinea","EQUATORIAL GUINEA Outbound SMS - Muni",0.16400,USD
+627,1,GQ,"Equatorial Guinea","EQUATORIAL GUINEA Outbound SMS - Orange GQ",0.16400,USD
+627,999,GQ,"Equatorial Guinea","EQUATORIAL GUINEA Outbound SMS - Other",0.16400,USD
+628,3,GA,"Gabon","GABON Outbound SMS - Airtel",0.25000,USD
+628,4,GA,"Gabon","GABON Outbound SMS - Azur",0.25000,USD
+628,1,GA,"Gabon","GABON Outbound SMS - Libertis",0.25000,USD
+628,2,GA,"Gabon","GABON Outbound SMS - Moov",0.25000,USD
+628,999,GA,"Gabon","GABON Outbound SMS - Other",0.25000,USD
+629,1,CG,"Congo","CONGO Outbound SMS - Airtel",0.26800,USD
+629,7,CG,"Congo","CONGO Outbound SMS - Airtel",0.26800,USD
+629,10,CG,"Congo","CONGO Outbound SMS - Libertis Telecom",0.26800,USD
+629,999,CG,"Congo","CONGO Outbound SMS - Other",0.26800,USD
+630,90,CD,"Congo, DR","DR CONGO Outbound SMS - Africell",0.21400,USD
+630,2,CD,"Congo, DR","DR CONGO Outbound SMS - Airtel",0.21400,USD
+630,86,CD,"Congo, DR","DR CONGO Outbound SMS - Orange RDC",0.21400,USD
+630,89,CD,"Congo, DR","DR CONGO Outbound SMS - Orange RDC",0.21400,USD
+630,999,CD,"Congo, DR","DR CONGO Outbound SMS - Other",0.21400,USD
+630,5,CD,"Congo, DR","DR CONGO Outbound SMS - Supercell",0.21400,USD
+630,1,CD,"Congo, DR","DR CONGO Outbound SMS - Vodacom",0.21400,USD
+630,88,CD,"Congo, DR","DR CONGO Outbound SMS - YTT",0.21400,USD
+631,4,AO,"Angola","ANGOLA Outbound SMS - MOVICEL",0.13200,USD
+631,999,AO,"Angola","ANGOLA Outbound SMS - Other",0.13200,USD
+631,2,AO,"Angola","ANGOLA Outbound SMS - UNITEL",0.13200,USD
+632,1,GW,"Guinea-Bissau","GUINEA-BISSAU Outbound SMS - Guinetel",0.24850,USD
+632,7,GW,"Guinea-Bissau","GUINEA-BISSAU Outbound SMS - Guinetel",0.24850,USD
+632,2,GW,"Guinea-Bissau","GUINEA-BISSAU Outbound SMS - MTN Areeba",0.24850,USD
+632,3,GW,"Guinea-Bissau","GUINEA-BISSAU Outbound SMS - Orange",0.24850,USD
+632,999,GW,"Guinea-Bissau","GUINEA-BISSAU Outbound SMS - Other",0.24850,USD
+633,10,SC,"Seychelles","SEYCHELLES Outbound SMS - Airtel",0.21820,USD
+633,1,SC,"Seychelles","SEYCHELLES Outbound SMS - Cable & Wireless",0.21820,USD
+633,999,SC,"Seychelles","SEYCHELLES Outbound SMS - Other",0.21820,USD
+634,2,SD,"Sudan","SUDAN Outbound SMS - MTN",0.35000,USD
+634,999,SD,"Sudan","SUDAN Outbound SMS - Other",0.35000,USD
+634,7,SD,"Sudan","SUDAN Outbound SMS - Sudani One",0.35000,USD
+634,1,SD,"Sudan","SUDAN Outbound SMS - Zain SD",0.35000,USD
+634,5,SD,"Sudan","SUDAN Outbound SMS - canar",0.35000,USD
+635,13,RW,"Rwanda","RWANDA Outbound SMS - Airtel",0.25930,USD
+635,14,RW,"Rwanda","RWANDA Outbound SMS - Airtel",0.25930,USD
+635,10,RW,"Rwanda","RWANDA Outbound SMS - MTN",0.25930,USD
+635,999,RW,"Rwanda","RWANDA Outbound SMS - Other",0.25930,USD
+635,12,RW,"Rwanda","RWANDA Outbound SMS - Rwandatel",0.25930,USD
+636,1,ET,"Ethiopia","ETHIOPIA Outbound SMS - MTN",0.32500,USD
+636,999,ET,"Ethiopia","ETHIOPIA Outbound SMS - Other",0.32500,USD
+637,30,SO,"Somalia","SOMALIA Outbound SMS - Golis",0.24600,USD
+637,25,SO,"Somalia","SOMALIA Outbound SMS - Hormuud",0.24600,USD
+637,50,SO,"Somalia","SOMALIA Outbound SMS - Hormuud",0.24600,USD
+637,10,SO,"Somalia","SOMALIA Outbound SMS - Nationlink",0.24600,USD
+637,60,SO,"Somalia","SOMALIA Outbound SMS - Nationlink",0.24600,USD
+637,999,SO,"Somalia","SOMALIA Outbound SMS - Other",0.24600,USD
+637,20,SO,"Somalia","SOMALIA Outbound SMS - SOMNET",0.24600,USD
+637,4,SO,"Somalia","SOMALIA Outbound SMS - Somafone",0.24600,USD
+637,71,SO,"Somalia","SOMALIA Outbound SMS - Somtel",0.24600,USD
+637,82,SO,"Somalia","SOMALIA Outbound SMS - Telcom",0.24600,USD
+637,1,SO,"Somalia","SOMALIA Outbound SMS - Telesom",0.24600,USD
+638,1,DJ,"Djibouti","DJIBOUTI Outbound SMS - Evatis",0.15400,USD
+638,999,DJ,"Djibouti","DJIBOUTI Outbound SMS - Other",0.15400,USD
+639,3,KE,"Kenya","KENYA Outbound SMS - Airtel",0.19100,USD
+639,10,KE,"Kenya","KENYA Outbound SMS - Faiba 4G",0.19100,USD
+639,6,KE,"Kenya","KENYA Outbound SMS - Finserve Africa",0.19100,USD
+639,9,KE,"Kenya","KENYA Outbound SMS - Homeland Media",0.19100,USD
+639,11,KE,"Kenya","KENYA Outbound SMS - Jambo Telecoms",0.19100,USD
+639,4,KE,"Kenya","KENYA Outbound SMS - Mobile Pay",0.19100,USD
+639,999,KE,"Kenya","KENYA Outbound SMS - Other",0.19100,USD
+639,2,KE,"Kenya","KENYA Outbound SMS - Safaricom",0.19100,USD
+639,7,KE,"Kenya","KENYA Outbound SMS - Telkom",0.19100,USD
+639,8,KE,"Kenya","KENYA Outbound SMS - Wetribe",0.19100,USD
+639,5,KE,"Kenya","KENYA Outbound SMS - yu",0.19100,USD
+640,5,TZ,"Tanzania","TANZANIA Outbound SMS - Airtel",0.34000,USD
+640,9,TZ,"Tanzania","TANZANIA Outbound SMS - Halotel",0.34000,USD
+640,999,TZ,"Tanzania","TANZANIA Outbound SMS - Other",0.34000,USD
+640,8,TZ,"Tanzania","TANZANIA Outbound SMS - Smart",0.34000,USD
+640,11,TZ,"Tanzania","TANZANIA Outbound SMS - SmileCom",0.34000,USD
+640,7,TZ,"Tanzania","TANZANIA Outbound SMS - TTCL Mobile",0.34000,USD
+640,4,TZ,"Tanzania","TANZANIA Outbound SMS - Vodacom",0.34000,USD
+640,3,TZ,"Tanzania","TANZANIA Outbound SMS - Zantel",0.34000,USD
+640,2,TZ,"Tanzania","TANZANIA Outbound SMS - tiGO",0.34000,USD
+641,14,UG,"Uganda","UGANDA Outbound SMS - Africell",0.25000,USD
+641,1,UG,"Uganda","UGANDA Outbound SMS - Airtel",0.25000,USD
+641,22,UG,"Uganda","UGANDA Outbound SMS - Airtel",0.25000,USD
+641,10,UG,"Uganda","UGANDA Outbound SMS - MTN",0.25000,USD
+641,999,UG,"Uganda","UGANDA Outbound SMS - Other",0.25000,USD
+641,18,UG,"Uganda","UGANDA Outbound SMS - Smart",0.25000,USD
+641,33,UG,"Uganda","UGANDA Outbound SMS - Tangerine",0.25000,USD
+641,4,UG,"Uganda","UGANDA Outbound SMS - Tangerine",0.25000,USD
+641,11,UG,"Uganda","UGANDA Outbound SMS - Uganda Telecom",0.25000,USD
+641,6,UG,"Uganda","UGANDA Outbound SMS - Vodafone",0.25000,USD
+642,8,BI,"Burundi","BURUNDI Outbound SMS - Lumitel",0.35700,USD
+642,3,BI,"Burundi","BURUNDI Outbound SMS - Onatel",0.35700,USD
+642,999,BI,"Burundi","BURUNDI Outbound SMS - Other",0.35700,USD
+642,7,BI,"Burundi","BURUNDI Outbound SMS - Smart Mobile",0.35700,USD
+642,1,BI,"Burundi","BURUNDI Outbound SMS - econet Leo",0.35700,USD
+642,82,BI,"Burundi","BURUNDI Outbound SMS - econet Leo",0.35700,USD
+643,3,MZ,"Mozambique","MOZAMBIQUE Outbound SMS - Movitel",0.25000,USD
+643,999,MZ,"Mozambique","MOZAMBIQUE Outbound SMS - Other",0.25000,USD
+643,4,MZ,"Mozambique","MOZAMBIQUE Outbound SMS - Vodacom",0.25000,USD
+643,1,MZ,"Mozambique","MOZAMBIQUE Outbound SMS - mCel",0.25000,USD
+645,1,ZM,"Zambia","ZAMBIA Outbound SMS - Airtel",0.31100,USD
+645,2,ZM,"Zambia","ZAMBIA Outbound SMS - MTN",0.31100,USD
+645,999,ZM,"Zambia","ZAMBIA Outbound SMS - Other",0.31100,USD
+645,3,ZM,"Zambia","ZAMBIA Outbound SMS - ZAMTEL",0.31100,USD
+646,1,MG,"Madagascar","MADAGASCAR Outbound SMS - Airtel",0.38400,USD
+646,2,MG,"Madagascar","MADAGASCAR Outbound SMS - Orange",0.38400,USD
+646,999,MG,"Madagascar","MADAGASCAR Outbound SMS - Other",0.38400,USD
+646,4,MG,"Madagascar","MADAGASCAR Outbound SMS - Telma",0.38400,USD
+647,3,RE,"Reunion","REUNION/MAYOTTE Outbound SMS - Free",0.17200,USD
+647,1,RE,"Reunion","REUNION/MAYOTTE Outbound SMS - Maor� Mobile",0.17200,USD
+647,2,RE,"Reunion","REUNION/MAYOTTE Outbound SMS - Only",0.17200,USD
+647,0,RE,"Reunion","REUNION/MAYOTTE Outbound SMS - Orange",0.17200,USD
+647,999,RE,"Reunion","REUNION/MAYOTTE Outbound SMS - Other",0.17200,USD
+647,10,RE,"Reunion","REUNION/MAYOTTE Outbound SMS - SFR R�union",0.17200,USD
+647,4,RE,"Reunion","REUNION/MAYOTTE Outbound SMS - Zeop",0.17200,USD
+648,4,ZW,"Zimbabwe","ZIMBABWE Outbound SMS - Econet",0.23080,USD
+648,1,ZW,"Zimbabwe","ZIMBABWE Outbound SMS - Net*One",0.23080,USD
+648,999,ZW,"Zimbabwe","ZIMBABWE Outbound SMS - Other",0.23080,USD
+648,3,ZW,"Zimbabwe","ZIMBABWE Outbound SMS - Telecel",0.23080,USD
+649,1,NA,"Namibia","NAMIBIA Outbound SMS - MTC",0.05600,USD
+649,999,NA,"Namibia","NAMIBIA Outbound SMS - Other",0.05600,USD
+649,3,NA,"Namibia","NAMIBIA Outbound SMS - TN Mobile",0.05600,USD
+649,2,NA,"Namibia","NAMIBIA Outbound SMS - switch",0.05600,USD
+650,10,MW,"Malawi","MALAWI Outbound SMS - Airtel",0.31400,USD
+650,999,MW,"Malawi","MALAWI Outbound SMS - Other",0.31400,USD
+650,1,MW,"Malawi","MALAWI Outbound SMS - TNM",0.31400,USD
+651,2,LS,"Lesotho","LESOTHO Outbound SMS - Econet Telecom",0.23200,USD
+651,999,LS,"Lesotho","LESOTHO Outbound SMS - Other",0.23200,USD
+651,1,LS,"Lesotho","LESOTHO Outbound SMS - Vodacom",0.23200,USD
+652,1,BW,"Botswana","BOTSWANA Outbound SMS - Mascom",0.09200,USD
+652,2,BW,"Botswana","BOTSWANA Outbound SMS - Orange",0.09200,USD
+652,999,BW,"Botswana","BOTSWANA Outbound SMS - Other",0.09200,USD
+652,4,BW,"Botswana","BOTSWANA Outbound SMS - beMobile",0.09200,USD
+653,999,SZ,"Swaziland","SWAZILAND Outbound SMS - Other",0.21200,USD
+653,1,SZ,"Swaziland","SWAZILAND Outbound SMS - SPTC",0.21200,USD
+653,10,SZ,"Swaziland","SWAZILAND Outbound SMS - Swazi MTN",0.21200,USD
+653,2,SZ,"Swaziland","SWAZILAND Outbound SMS - Swazi Mobile",0.21200,USD
+654,1,KM,"Comoros","COMOROS Outbound SMS - HURI",0.34000,USD
+654,999,KM,"Comoros","COMOROS Outbound SMS - Other",0.34000,USD
+654,2,KM,"Comoros","COMOROS Outbound SMS - TELCO SA",0.34000,USD
+655,7,ZA,"South Africa","SOUTH AFRICA Outbound SMS - Cell C",0.07200,USD
+655,53,ZA,"South Africa","SOUTH AFRICA Outbound SMS - Lycamobile",0.07200,USD
+655,10,ZA,"South Africa","SOUTH AFRICA Outbound SMS - MTN",0.07200,USD
+655,999,ZA,"South Africa","SOUTH AFRICA Outbound SMS - Other",0.07200,USD
+655,19,ZA,"South Africa","SOUTH AFRICA Outbound SMS - Rain",0.07200,USD
+655,2,ZA,"South Africa","SOUTH AFRICA Outbound SMS - Telkom",0.07200,USD
+655,1,ZA,"South Africa","SOUTH AFRICA Outbound SMS - Vodacom",0.07200,USD
+655,38,ZA,"South Africa","SOUTH AFRICA Outbound SMS - iBurst",0.07200,USD
+657,1,ER,"Eritrea","ERITREA Outbound SMS - Eritel",0.11100,USD
+657,999,ER,"Eritrea","ERITREA Outbound SMS - Other",0.11100,USD
+658,999,SH,"Saint Helena","ST HELENA Outbound SMS - Other",0.08500,USD
+658,1,SH,"Saint Helena","ST HELENA Outbound SMS - Sure",0.08500,USD
+659,3,SS,"South Sudan","SOUTH SUDAN Outbound SMS - Gemtel",0.22800,USD
+659,2,SS,"South Sudan","SOUTH SUDAN Outbound SMS - MTN",0.22800,USD
+659,999,SS,"South Sudan","SOUTH SUDAN Outbound SMS - Other",0.22800,USD
+659,7,SS,"South Sudan","SOUTH SUDAN Outbound SMS - Sudani",0.22800,USD
+659,4,SS,"South Sudan","SOUTH SUDAN Outbound SMS - Vivacell",0.22800,USD
+659,6,SS,"South Sudan","SOUTH SUDAN Outbound SMS - Zain",0.22800,USD
+702,67,BZ,"Belize","BELIZE Outbound SMS - DigiCell",0.22000,USD
+702,999,BZ,"Belize","BELIZE Outbound SMS - Other",0.22000,USD
+702,69,BZ,"Belize","BELIZE Outbound SMS - SMART",0.22000,USD
+704,1,GT,"Guatemala","GUATEMALA Outbound SMS - Claro",0.23700,USD
+704,3,GT,"Guatemala","GUATEMALA Outbound SMS - Movistar",0.23700,USD
+704,999,GT,"Guatemala","GUATEMALA Outbound SMS - Other",0.23700,USD
+704,2,GT,"Guatemala","GUATEMALA Outbound SMS - Tigo",0.23700,USD
+706,1,SV,"El Salvador","EL SALVADOR Outbound SMS - Claro",0.17500,USD
+706,2,SV,"El Salvador","EL SALVADOR Outbound SMS - Digicel",0.17500,USD
+706,4,SV,"El Salvador","EL SALVADOR Outbound SMS - Movistar",0.17500,USD
+706,999,SV,"El Salvador","EL SALVADOR Outbound SMS - Other",0.17500,USD
+706,5,SV,"El Salvador","EL SALVADOR Outbound SMS - RED",0.17500,USD
+706,3,SV,"El Salvador","EL SALVADOR Outbound SMS - Tigo",0.17500,USD
+708,1,HN,"Honduras","HONDURAS Outbound SMS - Claro",0.23400,USD
+708,40,HN,"Honduras","HONDURAS Outbound SMS - Digicel",0.23400,USD
+708,30,HN,"Honduras","HONDURAS Outbound SMS - Hondutel",0.23400,USD
+708,999,HN,"Honduras","HONDURAS Outbound SMS - Other",0.23400,USD
+708,2,HN,"Honduras","HONDURAS Outbound SMS - Tigo",0.23400,USD
+710,21,NI,"Nicaragua","NICARAGUA Outbound SMS - Claro",0.11270,USD
+710,73,NI,"Nicaragua","NICARAGUA Outbound SMS - Claro",0.11270,USD
+710,68,NI,"Nicaragua","NICARAGUA Outbound SMS - CooTel",0.11270,USD
+710,999,NI,"Nicaragua","NICARAGUA Outbound SMS - Other",0.11270,USD
+710,30,NI,"Nicaragua","NICARAGUA Outbound SMS - Tigo",0.11270,USD
+710,300,NI,"Nicaragua","NICARAGUA Outbound SMS - Tigo",0.11270,USD
+712,3,CR,"Costa Rica","COSTA RICA Outbound SMS - Claro",0.03700,USD
+712,1,CR,"Costa Rica","COSTA RICA Outbound SMS - K�lbi ICE",0.03700,USD
+712,2,CR,"Costa Rica","COSTA RICA Outbound SMS - K�lbi ICE",0.03700,USD
+712,4,CR,"Costa Rica","COSTA RICA Outbound SMS - Movistar",0.03700,USD
+712,999,CR,"Costa Rica","COSTA RICA Outbound SMS - Other",0.03700,USD
+714,1,PA,"Panama","PANAMA Outbound SMS - Cable & Wireless",0.16000,USD
+714,3,PA,"Panama","PANAMA Outbound SMS - Claro",0.16000,USD
+714,4,PA,"Panama","PANAMA Outbound SMS - Digicel",0.16000,USD
+714,999,PA,"Panama","PANAMA Outbound SMS - Other",0.16000,USD
+714,2,PA,"Panama","PANAMA Outbound SMS - Tigo",0.16000,USD
+714,20,PA,"Panama","PANAMA Outbound SMS - Tigo",0.16000,USD
+716,15,PE,"Peru","PERU Outbound SMS - Bitel",0.16300,USD
+716,10,PE,"Peru","PERU Outbound SMS - Claro",0.16300,USD
+716,17,PE,"Peru","PERU Outbound SMS - Entel",0.16300,USD
+716,7,PE,"Peru","PERU Outbound SMS - Entel",0.16300,USD
+716,6,PE,"Peru","PERU Outbound SMS - Movistar",0.16300,USD
+716,999,PE,"Peru","PERU Outbound SMS - Other",0.16300,USD
+722,310,AR,"Argentina","ARGENTINA Outbound SMS - Claro",0.08600,USD
+722,320,AR,"Argentina","ARGENTINA Outbound SMS - Claro",0.08600,USD
+722,330,AR,"Argentina","ARGENTINA Outbound SMS - Claro",0.08600,USD
+722,40,AR,"Argentina","ARGENTINA Outbound SMS - Globalstar",0.08600,USD
+722,10,AR,"Argentina","ARGENTINA Outbound SMS - Movistar",0.08600,USD
+722,7,AR,"Argentina","ARGENTINA Outbound SMS - Movistar",0.08600,USD
+722,70,AR,"Argentina","ARGENTINA Outbound SMS - Movistar",0.08600,USD
+722,20,AR,"Argentina","ARGENTINA Outbound SMS - Nextel",0.08600,USD
+722,999,AR,"Argentina","ARGENTINA Outbound SMS - Other",0.08600,USD
+722,34,AR,"Argentina","ARGENTINA Outbound SMS - Personal",0.08600,USD
+722,340,AR,"Argentina","ARGENTINA Outbound SMS - Personal",0.08600,USD
+722,341,AR,"Argentina","ARGENTINA Outbound SMS - Personal",0.08600,USD
+722,36,AR,"Argentina","ARGENTINA Outbound SMS - Personal",0.08600,USD
+724,32,BR,"Brazil","BRAZIL Outbound SMS - Algar Telecom",0.05400,USD
+724,33,BR,"Brazil","BRAZIL Outbound SMS - Algar Telecom",0.05400,USD
+724,34,BR,"Brazil","BRAZIL Outbound SMS - Algar Telecom",0.05400,USD
+724,26,BR,"Brazil","BRAZIL Outbound SMS - American Net",0.05400,USD
+724,16,BR,"Brazil","BRAZIL Outbound SMS - Brasil Telecom GSM",0.05400,USD
+724,5,BR,"Brazil","BRAZIL Outbound SMS - Claro",0.05400,USD
+724,54,BR,"Brazil","BRAZIL Outbound SMS - Conecta",0.05400,USD
+724,0,BR,"Brazil","BRAZIL Outbound SMS - Nextel",0.05400,USD
+724,39,BR,"Brazil","BRAZIL Outbound SMS - Nextel",0.05400,USD
+724,24,BR,"Brazil","BRAZIL Outbound SMS - Oi",0.05400,USD
+724,30,BR,"Brazil","BRAZIL Outbound SMS - Oi",0.05400,USD
+724,31,BR,"Brazil","BRAZIL Outbound SMS - Oi",0.05400,USD
+724,36,BR,"Brazil","BRAZIL Outbound SMS - Options Telecomunica��es",0.05400,USD
+724,999,BR,"Brazil","BRAZIL Outbound SMS - Other",0.05400,USD
+724,15,BR,"Brazil","BRAZIL Outbound SMS - Sercomtel",0.05400,USD
+724,17,BR,"Brazil","BRAZIL Outbound SMS - Surf Telecom",0.05400,USD
+724,2,BR,"Brazil","BRAZIL Outbound SMS - TIM",0.05400,USD
+724,3,BR,"Brazil","BRAZIL Outbound SMS - TIM",0.05400,USD
+724,4,BR,"Brazil","BRAZIL Outbound SMS - TIM",0.05400,USD
+724,35,BR,"Brazil","BRAZIL Outbound SMS - Telcom",0.05400,USD
+724,40,BR,"Brazil","BRAZIL Outbound SMS - Telecall",0.05400,USD
+724,10,BR,"Brazil","BRAZIL Outbound SMS - Vivo",0.05400,USD
+724,11,BR,"Brazil","BRAZIL Outbound SMS - Vivo",0.05400,USD
+724,23,BR,"Brazil","BRAZIL Outbound SMS - Vivo",0.05400,USD
+724,6,BR,"Brazil","BRAZIL Outbound SMS - Vivo",0.05400,USD
+724,37,BR,"Brazil","BRAZIL Outbound SMS - aeiou",0.05400,USD
+724,18,BR,"Brazil","BRAZIL Outbound SMS - datora",0.05400,USD
+730,3,CL,"Chile","CHILE Outbound SMS - CLARO CL",0.06700,USD
+730,11,CL,"Chile","CHILE Outbound SMS - Celupago",0.06700,USD
+730,12,CL,"Chile","CHILE Outbound SMS - Colo-Colo M�vilWanderers M�vil",0.06700,USD
+730,2,CL,"Chile","CHILE Outbound SMS - Movistar",0.06700,USD
+730,7,CL,"Chile","CHILE Outbound SMS - Movistar",0.06700,USD
+730,14,CL,"Chile","CHILE Outbound SMS - Netline",0.06700,USD
+730,999,CL,"Chile","CHILE Outbound SMS - Other",0.06700,USD
+730,6,CL,"Chile","CHILE Outbound SMS - Telsur",0.06700,USD
+730,8,CL,"Chile","CHILE Outbound SMS - VTR M�vil",0.06700,USD
+730,13,CL,"Chile","CHILE Outbound SMS - Virgin Mobile",0.06700,USD
+730,4,CL,"Chile","CHILE Outbound SMS - WOM",0.06700,USD
+730,9,CL,"Chile","CHILE Outbound SMS - WOM",0.06700,USD
+730,1,CL,"Chile","CHILE Outbound SMS - entel",0.06700,USD
+730,10,CL,"Chile","CHILE Outbound SMS - entel",0.06700,USD
+730,19,CL,"Chile","CHILE Outbound SMS - m�vil Falabella",0.06700,USD
+732,130,CO,"Colombia","COLOMBIA Outbound SMS - AVANTEL",0.04700,USD
+732,101,CO,"Colombia","COLOMBIA Outbound SMS - Claro",0.04700,USD
+732,102,CO,"Colombia","COLOMBIA Outbound SMS - Movistar",0.04700,USD
+732,123,CO,"Colombia","COLOMBIA Outbound SMS - Movistar",0.04700,USD
+732,999,CO,"Colombia","COLOMBIA Outbound SMS - Other",0.04700,USD
+732,199,CO,"Colombia","COLOMBIA Outbound SMS - SUMA Movil",0.04700,USD
+732,103,CO,"Colombia","COLOMBIA Outbound SMS - Tigo",0.04700,USD
+732,111,CO,"Colombia","COLOMBIA Outbound SMS - Tigo",0.04700,USD
+732,20,CO,"Colombia","COLOMBIA Outbound SMS - Tigo",0.04700,USD
+732,154,CO,"Colombia","COLOMBIA Outbound SMS - Virgin Mobile",0.04700,USD
+732,360,CO,"Colombia","COLOMBIA Outbound SMS - WOM",0.04700,USD
+732,187,CO,"Colombia","COLOMBIA Outbound SMS - eTb",0.04700,USD
+734,1,VE,"Venezuela","VENEZUELA Outbound SMS - Digitel",0.14200,USD
+734,2,VE,"Venezuela","VENEZUELA Outbound SMS - Digitel GSM",0.14200,USD
+734,3,VE,"Venezuela","VENEZUELA Outbound SMS - DirecTV",0.14200,USD
+734,6,VE,"Venezuela","VENEZUELA Outbound SMS - Movilnet",0.14200,USD
+734,4,VE,"Venezuela","VENEZUELA Outbound SMS - Movistar",0.14200,USD
+734,999,VE,"Venezuela","VENEZUELA Outbound SMS - Other",0.14200,USD
+736,2,BO,"Bolivia","BOLIVIA Outbound SMS - Entel",0.20000,USD
+736,999,BO,"Bolivia","BOLIVIA Outbound SMS - Other",0.20000,USD
+736,3,BO,"Bolivia","BOLIVIA Outbound SMS - Tigo",0.20000,USD
+736,1,BO,"Bolivia","BOLIVIA Outbound SMS - Viva",0.20000,USD
+738,1,GY,"Guyana","GUYANA Outbound SMS - Digicel",0.19200,USD
+738,2,GY,"Guyana","GUYANA Outbound SMS - GT&T Cellink Plus",0.19200,USD
+738,999,GY,"Guyana","GUYANA Outbound SMS - Other",0.19200,USD
+740,2,EC,"Ecuador","ECUADOR Outbound SMS - CNT Mobile",0.20900,USD
+740,1,EC,"Ecuador","ECUADOR Outbound SMS - Claro",0.20900,USD
+740,0,EC,"Ecuador","ECUADOR Outbound SMS - Movistar",0.20900,USD
+740,999,EC,"Ecuador","ECUADOR Outbound SMS - Other",0.20900,USD
+742,4,GF,"French Guiana","FRENCH GUIANA Outbound SMS - Other",0.14600,USD
+742,999,GF,"French Guiana","FRENCH GUIANA Outbound SMS - Other",0.14600,USD
+744,2,PY,"Paraguay","PARAGUAY Outbound SMS - Claro",0.09700,USD
+744,6,PY,"Paraguay","PARAGUAY Outbound SMS - Copaco",0.09700,USD
+744,999,PY,"Paraguay","PARAGUAY Outbound SMS - Other",0.09700,USD
+744,5,PY,"Paraguay","PARAGUAY Outbound SMS - Personal",0.09700,USD
+744,4,PY,"Paraguay","PARAGUAY Outbound SMS - Tigo",0.09700,USD
+744,1,PY,"Paraguay","PARAGUAY Outbound SMS - VOX",0.09700,USD
+746,3,SR,"Suriname","SURINAME Outbound SMS - Digicel",0.18700,USD
+746,4,SR,"Suriname","SURINAME Outbound SMS - Digicel",0.18700,USD
+746,999,SR,"Suriname","SURINAME Outbound SMS - Other",0.18700,USD
+746,2,SR,"Suriname","SURINAME Outbound SMS - Telesur",0.18700,USD
+748,1,UY,"Uruguay","URUGUAY Outbound SMS - Antel",0.06800,USD
+748,10,UY,"Uruguay","URUGUAY Outbound SMS - Claro",0.06800,USD
+748,7,UY,"Uruguay","URUGUAY Outbound SMS - Movistar",0.06800,USD
+748,999,UY,"Uruguay","URUGUAY Outbound SMS - Other",0.06800,USD
+750,999,FK,"Falkland Islands (Malvinas)","FALKLAND ISLANDS Outbound SMS - Other",0.12200,USD
+750,1,FK,"Falkland Islands (Malvinas)","FALKLAND ISLANDS Outbound SMS - Sure",0.12200,USD
+901,14,,"Satellite Networks","SATELLITE NETWORKS Outbound SMS - AeroMobile",0.13100,USD
+901,11,,"Satellite Networks","SATELLITE NETWORKS Outbound SMS - Inmarsat",0.13100,USD
+901,15,,"Satellite Networks","SATELLITE NETWORKS Outbound SMS - OnAir",0.13100,USD
+901,26,,"Satellite Networks","SATELLITE NETWORKS Outbound SMS - TIM@sea",0.13100,USD
+901,12,,"Satellite Networks","SATELLITE NETWORKS Outbound SMS - Telenor",0.13100,USD
+995,1,IO,"British Indian Ocean Territory","BRITISH INDIAN OCEAN TERRITORY Outbound SMS - FonePlus",0.13100,USD
+995,999,IO,"British Indian Ocean Territory","BRITISH INDIAN OCEAN TERRITORY Outbound SMS - Other",0.13100,USD
