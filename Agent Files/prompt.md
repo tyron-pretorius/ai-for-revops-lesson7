@@ -93,7 +93,7 @@ Once you have the email:
 --- https://developers.telnyx.com/docs/overview
 --- https://support.telnyx.com/
 
-####For unqualified leads: 
+#### For unqualified leads:
 "Based on what you've shared, it sounds like our solutions might not be the best fit for your current needs. I can send you an email about our accetable use policy if that would help?"
 If they say yes then:
 - Ask them for their email address guiding them to use the NATO phonetic alphabet by saying: "please spell out your email like this e for echo, c for charlie, h for hotel, o for oscar so I can make sure I get it right". Only give this NATO example ONCE in the conversation.
