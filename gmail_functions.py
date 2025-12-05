@@ -7,7 +7,7 @@ from googleapiclient.discovery import build
 
 # Get the directory where this script is located
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-SERVICE_ACCOUNT_FILE = os.path.join(SCRIPT_DIR, 'sales_mcp.json')
+SERVICE_ACCOUNT_FILE = os.path.join(SCRIPT_DIR, 'gmail_auth.json')
 EMAIL = "tyron@theworkflowpro.com"
 # Define the scopes
 SCOPES = ['https://www.googleapis.com/auth/gmail.send']
@@ -42,6 +42,6 @@ def send_email(service, to, cc, subject, message_text, reply_to="", is_html=Fals
     return sent_message
 
 if __name__ == "__main__":
-    service = get_gmail_service("tyron@theworkflowpro.com")
-    result = send_email(service, "tyron@theworkflowpro.com", "tyron@telnyx.com", "", "Test Email", "This is a test email")
+    service = get_gmail_service()
+    result = send_email(service, "tyron@telnyx.com", "", "Test Email", "This is a test email")
     print(result)

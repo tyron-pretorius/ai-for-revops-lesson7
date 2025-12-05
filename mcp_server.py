@@ -164,7 +164,19 @@ def create_salesforce_lead(fields: dict) -> dict:
     Create a new Lead in Salesforce.
     
     Args:
-        fields: Dictionary of Lead fields (LastName and Company will default to 'Unknown' if not provided)
+        fields: Dictionary of Lead fields. Valid fields are:
+            - FirstName: Lead's first name (string)
+            - LastName: Lead's last name (string, defaults to 'Unknown' if not provided)
+            - Company: Company name (string, defaults to 'Unknown' if not provided)
+            - Email: Email address (string)
+            - Phone: Phone number (string)
+            - Title: Job title (string)
+            - Website: Company website (string)
+            - Country: Country (string)
+            - Lead_Source_Detail__c: Lead source detail. Valid values: "SMS Chat", "Web Chat", or "Sales Line"
+            
+    Important: 
+        - Only include fields for which you have actual values. Do NOT include fields with empty, null, or unknown values.
     """
     result = salesforce_functions.create_lead(fields)
     return result

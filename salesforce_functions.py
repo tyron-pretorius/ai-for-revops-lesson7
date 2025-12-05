@@ -79,6 +79,8 @@ def create_lead(fields):
         fields["LastName"] = "Unknown"
     if "Company" not in fields:
         fields["Company"] = "Unknown"
+
+    fields['LeadSource'] = "Inbound"
     sf = sfdc_connection()
     response = sf.Lead.create(fields)
     return response

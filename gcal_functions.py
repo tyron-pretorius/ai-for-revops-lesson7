@@ -3,7 +3,7 @@ from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-SERVICE_ACCOUNT_FILE = os.path.join(SCRIPT_DIR, 'sales_mcp.json')
+SERVICE_ACCOUNT_FILE = os.path.join(SCRIPT_DIR, 'gmail_auth.json')
 EMAIL = "tyron@theworkflowpro.com"
 
 CALENDAR_SCOPES = ['https://www.googleapis.com/auth/calendar']
@@ -89,19 +89,18 @@ def create_calendar_event(event_details, calendar_id='primary'):
 
 def update_calendar_event(event_id, event_details, calendar_id='primary'):
     """
-    Update an existing calendar event.
+    Update an existing calendar event (partial update supported).
     
     Args:
-        user_email: The email of the user to impersonate
         event_id: The ID of the event to update
-        event_details: Dictionary containing updated event details
+        event_details: Dictionary containing updated event details (only fields to change)
         calendar_id: Calendar ID (defaults to 'primary')
     
     Returns:
         Updated event response
     """
     service = get_calendar_service()
-    event = service.events().update(calendarId=calendar_id, eventId=event_id, body=event_details).execute()
+    event = service.events().patch(calendarId=calendar_id, eventId=event_id, body=event_details).execute()
     return event
 
 
