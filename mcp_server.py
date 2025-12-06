@@ -111,13 +111,17 @@ def create_calendar_event(event_details: dict, calendar_id: str = 'primary') -> 
     Create a calendar event.
     
     Args:
-        event_details: Dictionary containing event details with keys like:
-            - summary: Event title
-            - location: Event location
-            - description: Event description
-            - start: Dict with 'dateTime' and 'timeZone'
-            - end: Dict with 'dateTime' and 'timeZone'
-            - attendees: List of dicts with 'email' key
+        event_details: Dictionary with the following structure (use EXACT key names):
+            {
+                "summary": "Meeting Title",
+                "description": "Meeting description",
+                "location": "123 Main St",
+                "start": {"dateTime": "2024-12-15T09:00:00", "timeZone": "America/Chicago"},
+                "end": {"dateTime": "2024-12-15T10:00:00", "timeZone": "America/Chicago"},
+                "attendees": [{"email": "person@example.com"}]
+            }
+            
+        IMPORTANT: Use "dateTime" (camelCase), NOT "date_time". Use "timeZone" (camelCase), NOT "time_zone".
         calendar_id: Calendar ID (defaults to 'primary')
     """
     result = gcal_functions.create_calendar_event(event_details, calendar_id)
@@ -126,11 +130,15 @@ def create_calendar_event(event_details: dict, calendar_id: str = 'primary') -> 
 @mcp.tool()
 def update_calendar_event(event_id: str, event_details: dict, calendar_id: str = 'primary') -> dict:
     """
-    Update an existing calendar event.
+    Update an existing calendar event (partial update - only include fields to change).
     
     Args:
         event_id: The ID of the event to update
-        event_details: Dictionary containing updated event details
+        event_details: Dictionary with fields to update. Example:
+            {"summary": "New Title", "description": "Updated description"}
+            
+            For time changes, use: {"dateTime": "2024-12-15T09:00:00", "timeZone": "America/Chicago"}
+            IMPORTANT: Use "dateTime" (camelCase), NOT "date_time".
         calendar_id: Calendar ID (defaults to 'primary')
     """
     result = gcal_functions.update_calendar_event(event_id, event_details, calendar_id)
